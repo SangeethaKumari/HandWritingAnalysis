@@ -51,7 +51,7 @@ class AdvancedHandwrittenOCR:
             print("⚠️  GPU not available, using CPU (will be slower)")
         
         self.models = {}
-        """ 
+       
         # Initialize TrOCR (Best for English handwriting)
         if use_trocr and 'en' in languages:
             print("\n📥 Loading TrOCR (Transformer-based OCR for handwriting)...")
@@ -69,7 +69,7 @@ class AdvancedHandwrittenOCR:
             except Exception as e:
                 print(f"❌ TrOCR loading failed: {e}")
                 self.models['trocr'] = False
-        """
+       
         # Initialize PaddleOCR (Best for Hindi and multi-language)
         if use_paddle:
             print("\n📥 Loading PaddleOCR (Industrial-grade multi-language OCR)...")
@@ -77,20 +77,15 @@ class AdvancedHandwrittenOCR:
                 # PaddleOCR supports Hindi natively
                 lang_map = {'en': 'en', 'hi': 'hindi'}
                 paddle_langs = [lang_map.get(l, l) for l in languages]
-                
+
+
                 self.paddle_ocr = PaddleOCR(
                     use_angle_cls=True,
-                    lang='en',  # Primary language
+                    lang='en',
                     use_gpu=True,
-                    show_log=False,
-                    det_model_dir=None,  # Will download automatically
-                    rec_model_dir=None,
-                    cls_model_dir=None,
-                    enable_mkldnn=True,  # CPU optimization
-                    cpu_threads=10,
-                    use_mp=True,  # Multi-processing
-                    total_process_num=2
+                    show_log=False
                 )
+                    
                 
                 # For Hindi, initialize separate instance
                 if 'hi' in languages:
@@ -98,8 +93,7 @@ class AdvancedHandwrittenOCR:
                         use_angle_cls=True,
                         lang='hindi',
                         use_gpu=True,
-                        show_log=False,
-                        enable_mkldnn=True
+                        show_log=False
                     )
                     self.models['paddle_hindi'] = True
                 
@@ -137,27 +131,40 @@ class AdvancedHandwrittenOCR:
             Preprocessed image
         """
         img = cv2.imread(image_path)
+        if img is None:
+            raise ValueError(f"Could not read image from {image_path}")
         
         # Convert to grayscale
-        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+        if len(img.shape) == 3:
+            gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+        else:
+            gray = img.copy()
         
         if enhance:
-            # Denoise
-            denoised = cv2.fastNlMeansDenoising(gray, None, 10, 7, 21)
+            # Resize if too small (helps with small text)
+            h, w = gray.shape
+            if min(h, w) < 300:
+                scale = 300 / min(h, w)
+                gray = cv2.resize(gray, (int(w * scale), int(h * scale)), interpolation=cv2.INTER_CUBIC)
             
-            # Increase contrast using CLAHE
-            clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+            # Denoise - use more aggressive denoising for handwriting
+            denoised = cv2.fastNlMeansDenoising(gray, None, h=10, templateWindowSize=7, searchWindowSize=21)
+            
+            # Increase contrast using CLAHE (better for handwritten text)
+            clahe = cv2.createCLAHE(clipLimit=3.0, tileGridSize=(8, 8))
             contrast = clahe.apply(denoised)
             
-            # Adaptive thresholding
-            binary = cv2.adaptiveThreshold(
-                contrast, 255,
-                cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
-                cv2.THRESH_BINARY, 11, 2
-            )
+            # Sharpen the image to improve character clarity
+            kernel_sharpen = np.array([[-1,-1,-1],
+                                     [-1, 9,-1],
+                                     [-1,-1,-1]])
+            sharpened = cv2.filter2D(contrast, -1, kernel_sharpen)
             
-            # Morphological operations to connect broken characters
-            kernel = np.ones((2, 2), np.uint8)
+            # Use Otsu's thresholding for better binarization
+            _, binary = cv2.threshold(sharpened, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
+            
+            # Morphological operations to connect broken characters (gentler)
+            kernel = np.ones((1, 1), np.uint8)
             morph = cv2.morphologyEx(binary, cv2.MORPH_CLOSE, kernel)
             
             return morph
@@ -185,13 +192,26 @@ class AdvancedHandwrittenOCR:
             x, y, w, h = roi
             image = image.crop((x, y, x + w, y + h))
         
+        # Enhance image before processing for better accuracy
+        # Resize if too small
+        width, height = image.size
+        if min(width, height) < 224:
+            scale = 224 / min(width, height)
+            new_size = (int(width * scale), int(height * scale))
+            image = image.resize(new_size, Image.Resampling.LANCZOS)
+        
         # Process image
         pixel_values = self.trocr_processor(image, return_tensors="pt").pixel_values
         pixel_values = pixel_values.to(self.device)
         
-        # Generate text
+        # Generate text with better parameters for accuracy
         with torch.no_grad():
-            generated_ids = self.trocr_model.generate(pixel_values)
+            generated_ids = self.trocr_model.generate(
+                pixel_values,
+                max_length=512,
+                num_beams=5,  # Beam search for better accuracy
+                early_stopping=True
+            )
         
         generated_text = self.trocr_processor.batch_decode(
             generated_ids, skip_special_tokens=True
@@ -216,19 +236,26 @@ class AdvancedHandwrittenOCR:
         # Select appropriate model
         ocr = self.paddle_ocr_hindi if language == 'hi' and self.models.get('paddle_hindi') else self.paddle_ocr
         
-        # Run OCR
+        # Run OCR - PaddleOCR uses ocr() method, not predict()
         results = ocr.ocr(image_path, cls=True)
         
         # Format results
         formatted = []
         if results and results[0]:
             for line in results[0]:
-                bbox, (text, confidence) = line
-                formatted.append({
-                    'text': text,
-                    'confidence': confidence,
-                    'bbox': bbox
-                })
+                if line:
+                    bbox = line[0]
+                    text_info = line[1]
+                    if isinstance(text_info, tuple) and len(text_info) == 2:
+                        text, confidence = text_info
+                    else:
+                        text = str(text_info)
+                        confidence = 1.0
+                    formatted.append({
+                        'text': text,
+                        'confidence': confidence,
+                        'bbox': bbox
+                    })
         
         return formatted
     
@@ -287,7 +314,7 @@ class AdvancedHandwrittenOCR:
             elif self.models.get('easy'):
                 method = 'easy'
         
-        print(f"🔍 Processing with {method.upper()} method...")
+        print(f"Processing with {method.upper()} method...")
         
         # Extract using selected method
         if method == 'trocr':
@@ -391,9 +418,9 @@ def main():
     # Initialize with all models (leveraging 24GB GPU)
     ocr = AdvancedHandwrittenOCR(
         languages=['en', 'hi'],
-        #use_trocr=True,   # Best for English handwriting
+        use_trocr=True,   # Best for English handwriting - ENABLED for better accuracy
         use_paddle=True,  # Best for Hindi and industrial use
-        use_easy=False    # Can enable if needed
+        use_easy=True    # Can enable if needed
     )
     
     # Example 1: Extract English handwriting with TrOCR
@@ -401,7 +428,7 @@ def main():
     print("Example 1: English Handwriting with TrOCR")
     print("=" * 70)
     
-    image_path = "/images/english_handwritten.jpg"
+    image_path = "/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/english_handwritten.jpg"
     
     try:
         result = ocr.extract_text(image_path, method='auto', language='en')
@@ -409,14 +436,13 @@ def main():
         print(f"⏱️  Processing Time: {result['processing_time']:.2f}s")
     except FileNotFoundError:
         print(f"\n⚠️  Please provide image: {image_path}")
-    
+    """
     # Example 2: Extract Hindi text with PaddleOCR
     print("\n" + "=" * 70)
     print("Example 2: Hindi Handwriting with PaddleOCR")
     print("=" * 70)
     
-    hindi_image = "/images/hindi_handwritten.jpg"
-    
+    hindi_image = "/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/hindi_handwritten.jpg"
     try:
         result = ocr.extract_text(hindi_image, method='paddle', language='hi')
         print(f"\n📝 Extracted Text:\n{result['text']}")
@@ -428,7 +454,7 @@ def main():
             print(f"📊 Average Confidence: {avg_conf:.2%}")
     except FileNotFoundError:
         print(f"\n⚠️  Please provide image: {hindi_image}")
-    
+    """
     # Example 3: Batch processing (GPU shines here!)
     print("\n" + "=" * 70)
     print("Example 3: Batch Processing Multiple Images")
