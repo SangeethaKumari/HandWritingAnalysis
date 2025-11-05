@@ -1,1 +1,322 @@
-[]
+[
+  [
+    "Universal Approximator Theorem",
+    "guarantees",
+    "Effective Function f"
+  ],
+  [
+    "Fine-Tuning",
+    "applied_in",
+    "AI Agents"
+  ],
+  [
+    "Fine-Tuning",
+    "improves",
+    "Model Performance"
+  ],
+  [
+    "Agent Discovery",
+    "applied_in",
+    "Peer-to-Peer Systems"
+  ],
+  [
+    "BER T",
+    "applied_in",
+    "Transfer Learning"
+  ],
+  [
+    "Lossy Compression",
+    "uses",
+    "Data Provenance"
+  ],
+  [
+    "Sensitivity",
+    "measured_by",
+    "Gradient Sensitivity"
+  ],
+  [
+    "Gradient Descent",
+    "requires",
+    "Backpropagation"
+  ],
+  [
+    "Null Hypothesis",
+    "applied_to",
+    "Random Data Points"
+  ],
+  [
+    "Deep Habit",
+    "requires",
+    "Specialized Responsibility"
+  ],
+  [
+    "Neural Network",
+    "can_approximate",
+    "Any Continuous Function"
+  ],
+  [
+    "Error",
+    "measured_by",
+    "Loss Function"
+  ],
+  [
+    "Forward Signal Transduction",
+    "part_of",
+    "Model Training"
+  ],
+  [
+    "Neural Network",
+    "is_type_of",
+    "Machine Learning Model"
+  ],
+  [
+    "Loss Function",
+    "uses",
+    "Prediction and Actual Value"
+  ],
+  [
+    "Classification",
+    "measures_error_rate_using",
+    "Precision"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "Foundational Abilities"
+  ],
+  [
+    "Model",
+    "improves_with",
+    "More Data"
+  ],
+  [
+    "Neural Network Training Loop",
+    "requires",
+    "Adjusting Trainable Parameters \u03b8"
+  ],
+  [
+    "Forcing Function",
+    "requires",
+    "Surrogate Task"
+  ],
+  [
+    "Catastrophic Forgetting",
+    "is_type_of",
+    "Machine Learning Problem"
+  ],
+  [
+    "Classification",
+    "measures_error_rate_using",
+    "F1 Score"
+  ],
+  [
+    "Model Capacity",
+    "measures",
+    "Knowledge Entropy"
+  ],
+  [
+    "Chain Rule",
+    "used_in",
+    "Backpropagation"
+  ],
+  [
+    "Model",
+    "is_a_close_approximation_to",
+    "Ground Truth Function"
+  ],
+  [
+    "In-Context Learning",
+    "is_type_of",
+    "Machine Learning Technique"
+  ],
+  [
+    "Model Training",
+    "is_type_of",
+    "Machine Learning Process"
+  ],
+  [
+    "Non-Linear Operations",
+    "combine_with",
+    "Linear Operations wxb"
+  ],
+  [
+    "Agent Design Pattern",
+    "part_of",
+    "AI Frameworks"
+  ],
+  [
+    "Feedforward Neural Network",
+    "has",
+    "Single Hidden Layer"
+  ],
+  [
+    "Transfer Learning",
+    "improves",
+    "Model Performance"
+  ],
+  [
+    "Classification",
+    "measures_error_rate_using",
+    "Recall"
+  ],
+  [
+    "Universal Approximator Theorem",
+    "states",
+    "Standard Feedforward Neural Network"
+  ],
+  [
+    "Grokking",
+    "is_type_of",
+    "Machine Learning Concept"
+  ],
+  [
+    "Backpropagation",
+    "uses",
+    "Chain Rule"
+  ],
+  [
+    "Knowledge Obsolescence",
+    "risks",
+    "Fine-Tuning Models"
+  ],
+  [
+    "Real-World Relationship",
+    "is_expressed_through",
+    "Functions"
+  ],
+  [
+    "Gradient",
+    "measures",
+    "Parameter Contribution to Error"
+  ],
+  [
+    "Loss Function",
+    "measures",
+    "Model Performance"
+  ],
+  [
+    "Ground Truth",
+    "approximated_by",
+    "Machine Learning Model"
+  ],
+  [
+    "Mode Collapse",
+    "is_type_of",
+    "Machine Learning Problem"
+  ],
+  [
+    "Chain Rule",
+    "part_of",
+    "Mathematical Formulas"
+  ],
+  [
+    "Regression",
+    "measures_quality_using",
+    "Mean Squared Error"
+  ],
+  [
+    "Frontier Models",
+    "compared_to",
+    "Fine-Tuning"
+  ],
+  [
+    "Transfer Learning",
+    "applied_in",
+    "Model Training"
+  ],
+  [
+    "Prompt Engineering",
+    "compared_to",
+    "Fine-Tuning"
+  ],
+  [
+    "Model Training",
+    "improves",
+    "Accuracy"
+  ],
+  [
+    "Regression",
+    "measures_quality_using",
+    "Mean Absolute Error"
+  ],
+  [
+    "Compute Loss",
+    "measures",
+    "Error"
+  ],
+  [
+    "Ground Truth Function",
+    "describes",
+    "True Relationship Between Variables"
+  ],
+  [
+    "Activation Function \u03d5",
+    "applies_to",
+    "Single Neuron Operation zwxb O\u03d5z"
+  ],
+  [
+    "Model Training",
+    "requires",
+    "Data Provenance"
+  ],
+  [
+    "Trainable Parameters \u03b8",
+    "includes",
+    "Weights w and Biases b"
+  ],
+  [
+    "Backpropagation",
+    "applied_in",
+    "Model Training"
+  ],
+  [
+    "Prediction",
+    "compared_against",
+    "Actual Value"
+  ],
+  [
+    "Classification",
+    "measures_error_rate_using",
+    "Accuracy"
+  ],
+  [
+    "Parameter Limits",
+    "optimizes",
+    "Model Performance"
+  ],
+  [
+    "Ground Truth Function",
+    "is_unknown",
+    "True Relationship Between Variables"
+  ],
+  [
+    "Universal Approximator Theorem",
+    "states",
+    "Neural Networks Can Approximate Any Function"
+  ],
+  [
+    "Machine Learning Algorithm",
+    "draws_decision_boundary_for",
+    "Decision Boundary"
+  ],
+  [
+    "Null Hypothesis",
+    "is_type_of",
+    "Statistical Concept"
+  ],
+  [
+    "Model",
+    "requires",
+    "Data Points"
+  ],
+  [
+    "Chain Rule",
+    "uses",
+    "Backpropagation"
+  ],
+  [
+    "Function g",
+    "is_unknown_ground_truth",
+    "True"
+  ]
+]

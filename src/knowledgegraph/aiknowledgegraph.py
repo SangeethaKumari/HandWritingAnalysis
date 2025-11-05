@@ -46,6 +46,8 @@ class AIKnowledgeGraph:
             return
         
         doc = nlp(text)
+
+        print(doc)
         
         # Extract named entities and noun chunks
         entities = set()
@@ -262,5 +264,5 @@ def main(pdf_path):
 # Example usage:
 if __name__ == "__main__":
     # Replace with your PDF path
-    pdf_path = "ai_class_summary.pdf"
+    pdf_path = "/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/AI Agents Week 8 Summary.pdf"
     kg = main(pdf_path)
