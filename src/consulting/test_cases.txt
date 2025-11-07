@@ -1,0 +1,49 @@
+# Test Cases for MedGemma
+
+## Case 1: Stevens-Johnson Syndrome (EMERGENCY)
+I started taking a new antibiotic three days ago for an infection. Yesterday I developed a high fever of 103 degrees and felt very weak. This morning I woke up with red painful rashes all over my chest, back, and arms. The rashes have now turned into large blisters that are breaking open. My lips are swollen and cracking with blood, and I have painful sores inside my mouth making it hard to eat or drink. My eyes are burning, red, and crusted shut this morning. The skin is peeling off in sheets when I touch it.
+
+---
+
+## Case 2: Contact Dermatitis (MODERATE)
+I have red itchy patches with small blisters on my arm for two days. It started after I used a new soap. Scratching makes it worse. The affected area is about the size of my palm and hasn't spread much since yesterday.
+
+---
+
+## Case 3: Necrotizing Fasciitis (EMERGENCY)
+Two days ago I had a small cut on my leg while working in the garden. Since yesterday evening, the area around the cut has become extremely painful - much worse than you'd expect from such a small wound. The skin has turned dark red, almost purple, and it's very swollen and hot to touch. This morning I noticed the discoloration is spreading rapidly up my leg. I can see some black spots appearing on the skin. I've had a high fever since last night, around 102 degrees, and I feel extremely weak and nauseous.
+
+---
+
+## Case 4: Minor Sunburn (MINOR)
+I was at the beach yesterday for about 3 hours without sunscreen. Now my shoulders and back are red and a bit painful to touch. The skin feels warm and tight. I don't have any blisters, just redness. I feel fine otherwise, no fever or anything.
+
+---
+
+## Case 5: Eczema Flare-up (MODERATE)
+I've had eczema since childhood, and it usually stays under control. But over the past week, the dry patches on my elbows and behind my knees have gotten much worse. They're very itchy, red, and the skin is cracking. I ran out of my prescription cream about two weeks ago. No fever, and it's only in the usual spots.
+
+---
+
+## Case 6: Meningococcal Septicemia (EMERGENCY)
+My daughter started complaining of headache and fever this morning. Within the last 3 hours, she's gotten much worse. She now has a high fever of 104 degrees and is very drowsy. About an hour ago, I noticed small red spots appearing on her chest and legs. These spots are spreading very quickly and are now turning into larger purple bruises that don't fade when I press on them. She's complaining that the light hurts her eyes and her neck is very stiff.
+
+---
+
+## Case 7: Mild Acne (MINOR)
+I'm 16 years old and have been getting more pimples on my face over the past few months. I have about 10-15 small red bumps on my forehead and cheeks. Some have white heads. It's a bit embarrassing but doesn't hurt. I wash my face twice a day with regular soap.
+
+---
+
+## Case 8: Cellulitis (MODERATE)
+Three days ago I noticed a red, warm, swollen area on my lower leg about the size of a tennis ball. It's been getting slightly bigger each day and is tender to touch. I have a low-grade fever of 99.5 degrees. I don't remember injuring it, but I did have a mosquito bite there last week. The redness has spread a bit but not dramatically.
+
+---
+
+## Case 9: Insect Bite Reaction (MINOR)
+I got bitten by a mosquito on my arm yesterday evening. The bite area is red, swollen about the size of a quarter, and very itchy. I've been scratching it a lot. No other symptoms, just the local irritation.
+
+---
+
+## Case 10: Drug Reaction with Hives (MODERATE)
+I started a new blood pressure medication five days ago. Yesterday I developed itchy red welts all over my body. They seem to come and go, appearing in different places. My lips also feel a bit swollen but I can breathe fine. No fever or other
