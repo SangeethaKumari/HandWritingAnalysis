@@ -46,6 +46,7 @@ import re
 
 # Audio recording
 import sounddevice as sd
+import soundfile as sf
 import numpy as np
 from scipy.io.wavfile import write as write_wav
 
@@ -452,7 +453,7 @@ class GPUVoiceSymptomPipeline:
     
     def process_voice_input(self, recording_mode: str = "auto") -> Dict:
         """Complete GPU-accelerated pipeline: Record → Transcribe → Extract"""
-        
+        """
         conversation_id = f"conv_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
         
         print(f"\n{'='*60}")
@@ -475,7 +476,18 @@ class GPUVoiceSymptomPipeline:
         
         audio_path = self.output_dir / "audio" / f"{conversation_id}.wav"
         self.recorder.save_audio(audio_data, str(audio_path))
+        """
+        conversation_id = f"conv_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
         
+        print(f"\n{'='*60}")
+        print(f"NEW CONVERSATION: {conversation_id}")
+        print(f"{'='*60}\n")
+
+
+        audio_path = "/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/Rash_conversation copy.wav"
+
+        data, samplerate = sf.read(audio_path)
+        duration_seconds = len(data) / samplerate
         # Step 2: Transcribe (GPU-accelerated)
         print(f"\nSTEP 2: Speech-to-Text (GPU-Accelerated)")
         print("-" * 40)
@@ -497,6 +509,9 @@ class GPUVoiceSymptomPipeline:
         with open(extraction_path, 'w') as f:
             json.dump(asdict(extraction), f, indent=2)
         
+        #below three lines added 
+        duration_seconds = data.shape[0] / samplerate
+        total_start = time.time()
         total_time = time.time() - total_start
         
         self._print_summary(transcription, extraction, duration_seconds, total_time)

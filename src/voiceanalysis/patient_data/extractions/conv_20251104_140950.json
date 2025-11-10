@@ -1,0 +1,38 @@
+{
+  "conversation_id": "conv_20251104_140950",
+  "colors": [
+    "red"
+  ],
+  "textures": [],
+  "patterns": [],
+  "size_descriptors": [],
+  "sensations": [
+    "itchy",
+    "itcy at night"
+  ],
+  "severity": "",
+  "body_locations": [
+    "arm"
+  ],
+  "duration": "about 3 days",
+  "progression": "",
+  "triggers": [
+    "hiking"
+  ],
+  "aggravating_factors": [],
+  "relieving_factors": [],
+  "associated_symptoms": [],
+  "previous_treatments": [
+    "hydrocortisol cream"
+  ],
+  "confidence": "low",
+  "key_concerns": [],
+  "original_text_snippets": [
+    "I have a rash on my arm for about 3 days, it is a super itchy especially at night",
+    "the spots are red",
+    "I think I might have started after hiking"
+  ],
+  "extracted_at": "2025-11-04T14:10:13.985990",
+  "processing_time_seconds": 21.33,
+  "gpu_used": false
+}

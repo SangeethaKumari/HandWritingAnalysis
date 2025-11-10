@@ -1,0 +1,1062 @@
+[
+  [
+    "Neural Network",
+    "is_type_of",
+    "AI Agent"
+  ],
+  [
+    "Model Training",
+    "requires",
+    "Data Science"
+  ],
+  [
+    "Transfer Learning",
+    "improves",
+    "Model Accuracy"
+  ],
+  [
+    "Fine-Tuning",
+    "applied_in",
+    "AI Agents"
+  ],
+  [
+    "Loss Function",
+    "measures",
+    "Model Performance"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "Foundational Ability"
+  ],
+  [
+    "BER T",
+    "is_type_of",
+    "Surrogate Task"
+  ],
+  [
+    "LLMs",
+    "part_of",
+    "Frontier Models"
+  ],
+  [
+    "SLMs",
+    "part_of",
+    "Fine-Tuned Models"
+  ],
+  [
+    "Agent-FL",
+    "based_on",
+    "Microsoft's Framework"
+  ],
+  [
+    "Planning and Execution",
+    "part_of",
+    "Agent Design Pattern"
+  ],
+  [
+    "Re-planning",
+    "part_of",
+    "Agent Design Pattern"
+  ],
+  [
+    "Reflection",
+    "part_of",
+    "Agent Design Pattern"
+  ],
+  [
+    "Smart Home Reasoning Project",
+    "applied_in",
+    "Agent Design Pattern"
+  ],
+  [
+    "Model Training",
+    "is_type_of",
+    "Machine Learning"
+  ],
+  [
+    "Fine-Tuning",
+    "uses",
+    "Model Training"
+  ],
+  [
+    "AI Agents",
+    "requires",
+    "Fine-Tuning"
+  ],
+  [
+    "Ground Truth Function",
+    "describes",
+    "True Relationship Between Variables"
+  ],
+  [
+    "Models",
+    "are_approximations_of",
+    "Ground Truth Function"
+  ],
+  [
+    "Approximation",
+    "is_useful_if",
+    "Good Approximation Of Underlying Reality"
+  ],
+  [
+    "Ice Cream Sales Model",
+    "applies_to",
+    "Temperature Prediction"
+  ],
+  [
+    "Model",
+    "suffers_from",
+    "Unknown Unknowns"
+  ],
+  [
+    "Machine Learning",
+    "requires",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "Fine-Tuning",
+    "improves",
+    "Model Accuracy"
+  ],
+  [
+    "Mean Squared Error",
+    "measures",
+    "regression quality"
+  ],
+  [
+    "Mean Absolute Error",
+    "measures",
+    "regression quality"
+  ],
+  [
+    "Accuracy",
+    "measures",
+    "classification error rate"
+  ],
+  [
+    "Precision",
+    "measures",
+    "classification error rate"
+  ],
+  [
+    "Recall",
+    "measures",
+    "classification error rate"
+  ],
+  [
+    "F1 score",
+    "measures",
+    "classification error rate"
+  ],
+  [
+    "Neural Network",
+    "can approximate",
+    "any continuous function"
+  ],
+  [
+    "Universal Approximator Theorem",
+    "guarantees",
+    "effective approximation of any function"
+  ],
+  [
+    "Feedforward Neural Network",
+    "is type of",
+    "Neural Network"
+  ],
+  [
+    "Single Hidden Layer",
+    "part_of",
+    "Feedforward Neural Network"
+  ],
+  [
+    "Trainable Parameters",
+    "requires",
+    "Model Training"
+  ],
+  [
+    "Weights and Biases",
+    "are part of",
+    "Trainable Parameters"
+  ],
+  [
+    "Activation Function",
+    "introduces non-linearity in",
+    "Neural Network"
+  ],
+  [
+    "Linear Operations",
+    "combine with",
+    "Non-Linear Deformation"
+  ],
+  [
+    "Model",
+    "uses",
+    "Gradient Descent"
+  ],
+  [
+    "Loss",
+    "measures",
+    "Error"
+  ],
+  [
+    "Gradient",
+    "is_type_of",
+    "Slope"
+  ],
+  [
+    "Gradient",
+    "is_type_of",
+    "Sensitivity"
+  ],
+  [
+    "Parameters",
+    "are_updated_by",
+    "Gradient Descent Step"
+  ],
+  [
+    "Training Process",
+    "applied_in",
+    "Model Training"
+  ],
+  [
+    "Null Hypothesis",
+    "requires",
+    "Perceived Relationship"
+  ],
+  [
+    "Neural Network",
+    "uses",
+    "Transfer Learning"
+  ],
+  [
+    "Forward Signal Transduction",
+    "is_type_of",
+    "Algorithm"
+  ],
+  [
+    "Backpropagation",
+    "is_type_of",
+    "Technique"
+  ],
+  [
+    "Transfer Learning",
+    "is_type_of",
+    "Machine Learning Process"
+  ],
+  [
+    "Foundational Model",
+    "uses",
+    "Transfer Learning"
+  ],
+  [
+    "Fine-Tuning",
+    "requires",
+    "Transfer Learning"
+  ],
+  [
+    "Surrogate Task",
+    "part_of",
+    "Transfer Learning"
+  ],
+  [
+    "Neural Scaling Laws",
+    "improves",
+    "Model Performance"
+  ],
+  [
+    "Parameters",
+    "measures",
+    "Model Complexity"
+  ],
+  [
+    "Data",
+    "measures",
+    "Model Training"
+  ],
+  [
+    "Compute Resources",
+    "requires",
+    "Model Training"
+  ],
+  [
+    "AlexNet",
+    "is_type_of",
+    "Foundational Model"
+  ],
+  [
+    "Google",
+    "applied_in",
+    "Training Large Models"
+  ],
+  [
+    "Loss Function",
+    "represents",
+    "Engineering Goal"
+  ],
+  [
+    "Foundational Model",
+    "is_type_of",
+    "Model"
+  ],
+  [
+    "Foundational Ability",
+    "requires",
+    "Visual Language Understanding"
+  ],
+  [
+    "Foundational Ability",
+    "requires",
+    "Natural Language Understanding"
+  ],
+  [
+    "Downstream Tasks",
+    "are_trivial_for",
+    "Foundational Model"
+  ],
+  [
+    "Transfer Learning",
+    "shifts_training_from",
+    "Learning Fundamentals"
+  ],
+  [
+    "Model",
+    "uses",
+    "Training Data"
+  ],
+  [
+    "Text Sentiment Analysis",
+    "is_type_of",
+    "Downstream Task"
+  ],
+  [
+    "Natural Language Understanding",
+    "improves",
+    "Text Classification"
+  ],
+  [
+    "Visual Language Understanding",
+    "part_of",
+    "Foundational Ability"
+  ],
+  [
+    "Last-Mile Problems",
+    "are_trivial_for",
+    "Foundational Model"
+  ],
+  [
+    "Model",
+    "applied_in",
+    "Domain Diverse Tasks"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "Forcing Function"
+  ],
+  [
+    "BERT",
+    "is_type_of",
+    "Language Model"
+  ],
+  [
+    "Data Manufacturing",
+    "requires",
+    "Supervised Learning"
+  ],
+  [
+    "Guess the Masked Word",
+    "is_type_of",
+    "Surrogate Task"
+  ],
+  [
+    "Language Understanding",
+    "improves",
+    "Machine Learning"
+  ],
+  [
+    "Probability Distribution",
+    "measures",
+    "Language Understanding"
+  ],
+  [
+    "Loss Function",
+    "optimizes",
+    "Probability Mass"
+  ],
+  [
+    "Weights and Biases",
+    "part_of",
+    "Machine Learning Model"
+  ],
+  [
+    "Vocabulary",
+    "is_part_of",
+    "Language Model"
+  ],
+  [
+    "Mandarin Child Analogy",
+    "applied_in",
+    "Language Acquisition"
+  ],
+  [
+    "Guess the Missing Word",
+    "is_type_of",
+    "Surrogate Task"
+  ],
+  [
+    "Foundational Model",
+    "uses",
+    "Transfer Learning"
+  ],
+  [
+    "Natural Language Understanding model",
+    "is_type_of",
+    "Foundational Model"
+  ],
+  [
+    "Sentiment Analysis",
+    "applied_in",
+    "Transfer Learning"
+  ],
+  [
+    "Fine-tuning",
+    "part_of",
+    "Transfer Learning process"
+  ],
+  [
+    "Loss Function",
+    "quantifies",
+    "Training of Foundational Ability"
+  ],
+  [
+    "Negative Log-Likelihood (L)",
+    "is_type_of",
+    "Loss Function"
+  ],
+  [
+    "BERT",
+    "uses",
+    "Guess the Masked Word task"
+  ],
+  [
+    "P(cow|X)",
+    "measures",
+    "Probability of Correct Word"
+  ],
+  [
+    "Foundational Ability",
+    "shared_by",
+    "All Pricing Models"
+  ],
+  [
+    "Price Elasticity",
+    "part_of",
+    "Foundational Ability"
+  ],
+  [
+    "Demand/Supply",
+    "part_of",
+    "Foundational Ability"
+  ],
+  [
+    "Transfer Learning",
+    "uses",
+    "pre-trained model"
+  ],
+  [
+    "Fine-Tuning",
+    "is_type_of",
+    "refining a foundational model"
+  ],
+  [
+    "Pricing Models",
+    "are_not",
+    "highly transferable"
+  ],
+  [
+    "Neural Scaling Laws",
+    "require",
+    "big compute and big data"
+  ],
+  [
+    "Traditional Regression Models",
+    "lack",
+    "Neural Scaling Laws"
+  ],
+  [
+    "Transfer Learning",
+    "improves",
+    "model performance"
+  ],
+  [
+    "Fine-Tuning",
+    "requires",
+    "specific domain's data"
+  ],
+  [
+    "Pricing Model Training",
+    "takes",
+    "20 minutes on modern systems"
+  ],
+  [
+    "General-Purpose Architecture",
+    "trains",
+    "separate model on-site for each client"
+  ],
+  [
+    "Transfer Learning",
+    "based_on",
+    "Neural Scaling Laws"
+  ],
+  [
+    "Pre-training",
+    "uses",
+    "foundational model"
+  ],
+  [
+    "Foundational Model",
+    "is_type_of",
+    "Deep Learning Model"
+  ],
+  [
+    "Transfer Learning",
+    "requires",
+    "Pre-training"
+  ],
+  [
+    "Fine-tuning",
+    "part_of",
+    "Transfer Learning"
+  ],
+  [
+    "Model",
+    "applied_in",
+    "Sentiment Analysis"
+  ],
+  [
+    "Language Structure",
+    "improves",
+    "Understanding of Language"
+  ],
+  [
+    "Syntax",
+    "is_type_of",
+    "Language Knowledge"
+  ],
+  [
+    "Semantics",
+    "measures",
+    "Contextual Understanding"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "Self-Supervised Objective"
+  ],
+  [
+    "Hugging Face",
+    "hosts",
+    "Pre-trained Models"
+  ],
+  [
+    "Neural Network",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "Neural Network",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Neural Network",
+    "inferred_from",
+    "Learning Fundamentals"
+  ],
+  [
+    "Neural Network",
+    "inferred_from",
+    "pre-trained model"
+  ],
+  [
+    "Neural Network",
+    "inferred_from",
+    "model performance"
+  ],
+  [
+    "Model Training",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "Fine-Tuning",
+    "inferred_from",
+    "Data Science"
+  ],
+  [
+    "Fine-Tuning",
+    "inferred_from",
+    "Machine Learning"
+  ],
+  [
+    "Fine-Tuning",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "Fine-Tuning",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Fine-Tuning",
+    "inferred_from",
+    "Learning Fundamentals"
+  ],
+  [
+    "Fine-Tuning",
+    "inferred_from",
+    "pre-trained model"
+  ],
+  [
+    "Fine-Tuning",
+    "inferred_from",
+    "model performance"
+  ],
+  [
+    "AI Agents",
+    "inferred_from",
+    "Model Training"
+  ],
+  [
+    "AI Agents",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "AI Agents",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "AI Agents",
+    "inferred_from",
+    "refining a foundational model"
+  ],
+  [
+    "Surrogate Task",
+    "inferred_from",
+    "Visual Language Understanding"
+  ],
+  [
+    "Surrogate Task",
+    "inferred_from",
+    "Natural Language Understanding"
+  ],
+  [
+    "Surrogate Task",
+    "inferred_from",
+    "All Pricing Models"
+  ],
+  [
+    "Surrogate Task",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "Surrogate Task",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Surrogate Task",
+    "inferred_from",
+    "Learning Fundamentals"
+  ],
+  [
+    "Surrogate Task",
+    "inferred_from",
+    "pre-trained model"
+  ],
+  [
+    "Surrogate Task",
+    "inferred_from",
+    "model performance"
+  ],
+  [
+    "Foundational Ability",
+    "inferred_from",
+    "Text Classification"
+  ],
+  [
+    "BER T",
+    "inferred_from",
+    "Foundational Ability"
+  ],
+  [
+    "BER T",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "BER T",
+    "inferred_from",
+    "Forcing Function"
+  ],
+  [
+    "BER T",
+    "inferred_from",
+    "Self-Supervised Objective"
+  ],
+  [
+    "BER T",
+    "inferred_from",
+    "Visual Language Understanding"
+  ],
+  [
+    "Models",
+    "inferred_from",
+    "True Relationship Between Variables"
+  ],
+  [
+    "Model",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "Feedforward Neural Network",
+    "inferred_from",
+    "AI Agent"
+  ],
+  [
+    "Feedforward Neural Network",
+    "inferred_from",
+    "any continuous function"
+  ],
+  [
+    "Feedforward Neural Network",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "Feedforward Neural Network",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "Feedforward Neural Network",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Single Hidden Layer",
+    "inferred_from",
+    "Neural Network"
+  ],
+  [
+    "Single Hidden Layer",
+    "inferred_from",
+    "AI Agent"
+  ],
+  [
+    "Single Hidden Layer",
+    "inferred_from",
+    "any continuous function"
+  ],
+  [
+    "Single Hidden Layer",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "Single Hidden Layer",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "Trainable Parameters",
+    "inferred_from",
+    "Data Science"
+  ],
+  [
+    "Trainable Parameters",
+    "inferred_from",
+    "Machine Learning"
+  ],
+  [
+    "Trainable Parameters",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "Weights and Biases",
+    "inferred_from",
+    "Model Training"
+  ],
+  [
+    "Weights and Biases",
+    "inferred_from",
+    "Data Science"
+  ],
+  [
+    "Weights and Biases",
+    "inferred_from",
+    "Machine Learning"
+  ],
+  [
+    "Weights and Biases",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "Activation Function",
+    "inferred_from",
+    "AI Agent"
+  ],
+  [
+    "Activation Function",
+    "inferred_from",
+    "any continuous function"
+  ],
+  [
+    "Activation Function",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "Activation Function",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "Activation Function",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Training Process",
+    "inferred_from",
+    "Data Science"
+  ],
+  [
+    "Training Process",
+    "inferred_from",
+    "Machine Learning"
+  ],
+  [
+    "Training Process",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "Learning Fundamentals"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "pre-trained model"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "model performance"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "Unknown Unknowns"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "Gradient Descent"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "Training Data"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "Domain Diverse Tasks"
+  ],
+  [
+    "Foundational Model",
+    "inferred_from",
+    "Sentiment Analysis"
+  ],
+  [
+    "Data",
+    "inferred_from",
+    "Data Science"
+  ],
+  [
+    "Data",
+    "inferred_from",
+    "Machine Learning"
+  ],
+  [
+    "Data",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "Compute Resources",
+    "inferred_from",
+    "Data Science"
+  ],
+  [
+    "Compute Resources",
+    "inferred_from",
+    "Machine Learning"
+  ],
+  [
+    "Compute Resources",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "AlexNet",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "AlexNet",
+    "inferred_from",
+    "Model"
+  ],
+  [
+    "AlexNet",
+    "inferred_from",
+    "Deep Learning Model"
+  ],
+  [
+    "AlexNet",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "AlexNet",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Visual Language Understanding",
+    "inferred_from",
+    "Natural Language Understanding"
+  ],
+  [
+    "Visual Language Understanding",
+    "inferred_from",
+    "All Pricing Models"
+  ],
+  [
+    "Visual Language Understanding",
+    "inferred_from",
+    "Text Classification"
+  ],
+  [
+    "Downstream Tasks",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "Downstream Tasks",
+    "inferred_from",
+    "Model"
+  ],
+  [
+    "Downstream Tasks",
+    "inferred_from",
+    "Deep Learning Model"
+  ],
+  [
+    "Downstream Tasks",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "Downstream Tasks",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Last-Mile Problems",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "Last-Mile Problems",
+    "inferred_from",
+    "Model"
+  ],
+  [
+    "Last-Mile Problems",
+    "inferred_from",
+    "Deep Learning Model"
+  ],
+  [
+    "Last-Mile Problems",
+    "inferred_from",
+    "Model Accuracy"
+  ],
+  [
+    "Last-Mile Problems",
+    "inferred_from",
+    "Machine Learning Process"
+  ],
+  [
+    "Guess the Masked Word",
+    "inferred_from",
+    "Foundational Ability"
+  ],
+  [
+    "Guess the Masked Word",
+    "inferred_from",
+    "Transfer Learning"
+  ],
+  [
+    "Guess the Masked Word",
+    "inferred_from",
+    "Forcing Function"
+  ],
+  [
+    "Guess the Masked Word",
+    "inferred_from",
+    "Self-Supervised Objective"
+  ],
+  [
+    "Guess the Masked Word",
+    "inferred_from",
+    "Visual Language Understanding"
+  ],
+  [
+    "Language Understanding",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ],
+  [
+    "Probability Distribution",
+    "inferred_from",
+    "Machine Learning"
+  ],
+  [
+    "Probability Distribution",
+    "inferred_from",
+    "Data Provenance And Legal Requirements"
+  ]
+]

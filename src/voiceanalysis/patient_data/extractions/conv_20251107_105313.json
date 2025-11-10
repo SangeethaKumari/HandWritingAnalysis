@@ -1,0 +1,40 @@
+{
+  "conversation_id": "conv_20251107_105313",
+  "colors": [
+    "red"
+  ],
+  "textures": [],
+  "patterns": [],
+  "size_descriptors": [
+    "tiny bumps",
+    "spots"
+  ],
+  "sensations": [
+    "itchy"
+  ],
+  "severity": "mild/moderate/severe",
+  "body_locations": [
+    "arm"
+  ],
+  "duration": "about 3 days",
+  "progression": "",
+  "triggers": [
+    "hiking"
+  ],
+  "aggravating_factors": [],
+  "relieving_factors": [],
+  "associated_symptoms": [],
+  "previous_treatments": [
+    "hydrocortisol cream"
+  ],
+  "confidence": "medium",
+  "key_concerns": [
+    "itchy at night"
+  ],
+  "original_text_snippets": [
+    "I have a rash on my arm for about 3 days, it is a super itchy especially at night, the spots are red, the tiny bumps, I think I might have started after hiking, I tried hydrocortisol cream but it is not helping, what can be done."
+  ],
+  "extracted_at": "2025-11-07T10:53:41.578328",
+  "processing_time_seconds": 26.62,
+  "gpu_used": false
+}
