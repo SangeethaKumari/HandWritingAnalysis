@@ -18,7 +18,8 @@ MODEL_NAME = "alibayram/medgemma:latest"
 # ---------------------------
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using device: {device}")
-model = WhisperModel("small", device="cpu") # need to change this later to device to use cuda
+#model = WhisperModel("small", device="cpu") # need to change this later to device to use cuda
+model = WhisperModel("large")
 
 # ---------------------------
 # Functions
