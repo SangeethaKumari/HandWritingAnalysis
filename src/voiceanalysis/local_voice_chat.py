@@ -4,6 +4,10 @@ import pyttsx3
 import requests
 import json
 
+#sudo apt-get install python-pyaudio python3-pyaudio
+#sudo apt-get install python3-pyaudio
+#sudo apt-get install portaudio19-dev python3-dev
+
 # --- Streamlit UI ---
 st.title("🦙 Local Voice Chatbot (Ollama + LLaMA)")
 
