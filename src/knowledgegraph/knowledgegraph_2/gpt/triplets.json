@@ -1,0 +1,562 @@
+[
+  [
+    "Neural Network",
+    "is_type_of",
+    "AI Agent"
+  ],
+  [
+    "Transfer Learning",
+    "improves",
+    "Model Training"
+  ],
+  [
+    "Fine-Tuning",
+    "requires",
+    "Pre-trained Model"
+  ],
+  [
+    "Loss Function",
+    "measures",
+    "Model Performance"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "BER T"
+  ],
+  [
+    "Foundational Models",
+    "part_of",
+    "AI Agents"
+  ],
+  [
+    "LLMs",
+    "compared_to",
+    "Fine-Tuned Models"
+  ],
+  [
+    "Prompt Engineering",
+    "is_replaced_by",
+    "Fine-Tuning"
+  ],
+  [
+    "In-Context Learning",
+    "is_type_of",
+    "Deep Habit"
+  ],
+  [
+    "Frontier Models",
+    "compared_to",
+    "Fine-Tuned Models"
+  ],
+  [
+    "Agent Design Pattern",
+    "part_of",
+    "AI Agents"
+  ],
+  [
+    "Planning and Execution",
+    "are_part_of",
+    "Agent Design Pattern"
+  ],
+  [
+    "Re-planning",
+    "is_a_subtask_of",
+    "Planning and Execution"
+  ],
+  [
+    "Reflection",
+    "is_a_subtask_of",
+    "Agent Design Pattern"
+  ],
+  [
+    "Smart Home Reasoning Project",
+    "applied_in",
+    "Agent Design Pattern"
+  ],
+  [
+    "Model Training",
+    "is_type_of",
+    "Machine Learning"
+  ],
+  [
+    "Fine-Tuning",
+    "improves",
+    "Model Accuracy"
+  ],
+  [
+    "AI Agents",
+    "uses",
+    "Fine-Tuning"
+  ],
+  [
+    "Model Training",
+    "requires",
+    "Data Provenance"
+  ],
+  [
+    "Knowledge Obsolescence",
+    "risks",
+    "Catastrophic Forgetting"
+  ],
+  [
+    "Mode Collapse",
+    "is_type_of",
+    "Optimization Problem"
+  ],
+  [
+    "Ground Truth Function",
+    "describes",
+    "True Relationship Between Variables"
+  ],
+  [
+    "Approximation Model",
+    "approximates",
+    "Ground Truth Function"
+  ],
+  [
+    "Model Capacity",
+    "measures",
+    "Knowledge Entropy"
+  ],
+  [
+    "Lossy Compression",
+    "part_of",
+    "Parameter Limits"
+  ],
+  [
+    "Machine Learning",
+    "requires",
+    "Data Provenance"
+  ],
+  [
+    "AI Agents",
+    "applied_in",
+    "Real-World Applications"
+  ],
+  [
+    "Fine-Tuning",
+    "optimizes",
+    "Model Performance"
+  ],
+  [
+    "Thermodynamic Disconnect",
+    "affects",
+    "Knowledge Entropy"
+  ],
+  [
+    "Mean Squared Error",
+    "measures",
+    "regression quality"
+  ],
+  [
+    "Mean Absolute Error",
+    "measures",
+    "regression quality"
+  ],
+  [
+    "Accuracy",
+    "measures",
+    "classification error rate"
+  ],
+  [
+    "Precision",
+    "measures",
+    "classification error rate"
+  ],
+  [
+    "Recall",
+    "measures",
+    "classification error rate"
+  ],
+  [
+    "F1 score",
+    "measures",
+    "classification error rate"
+  ],
+  [
+    "Neural Network",
+    "can approximate",
+    "any continuous function"
+  ],
+  [
+    "Universal Approximator Theorem",
+    "guarantees",
+    "effective approximation of any function"
+  ],
+  [
+    "Feedforward Neural Network",
+    "is type of",
+    "Neural Network"
+  ],
+  [
+    "Activation Function",
+    "introduces non-linearity in",
+    "neuron operation"
+  ],
+  [
+    "Gradient Descent",
+    "uses",
+    "Backpropagation"
+  ],
+  [
+    "Loss Function",
+    "measures",
+    "Error"
+  ],
+  [
+    "Gradient",
+    "is_type_of",
+    "Slope"
+  ],
+  [
+    "Gradient",
+    "is_type_of",
+    "Sensitivity"
+  ],
+  [
+    "Neural Network",
+    "applied_in",
+    "Model Training"
+  ],
+  [
+    "Transfer Learning",
+    "improves",
+    "Model Performance"
+  ],
+  [
+    "Forward Signal Transduction",
+    "uses",
+    "Input Data"
+  ],
+  [
+    "Backpropagation",
+    "requires",
+    "Loss Function"
+  ],
+  [
+    "Gradient Descent Step",
+    "optimizes",
+    "Loss Minimization"
+  ],
+  [
+    "Null Hypothesis",
+    "based_on",
+    "Relationship Existence"
+  ],
+  [
+    "Transfer Learning",
+    "is_type_of",
+    "Process"
+  ],
+  [
+    "Foundational Model",
+    "uses",
+    "Transfer Learning"
+  ],
+  [
+    "Fine-Tuning",
+    "requires",
+    "Transfer Learning"
+  ],
+  [
+    "Neural Scaling Laws",
+    "improves",
+    "Model Performance"
+  ],
+  [
+    "Parameters",
+    "are_required_by",
+    "Neural Scaling Laws"
+  ],
+  [
+    "Data",
+    "is_required_by",
+    "Neural Scaling Laws"
+  ],
+  [
+    "Compute Resources",
+    "are_required_by",
+    "Neural Scaling Laws"
+  ],
+  [
+    "AlexNet",
+    "uses",
+    "Foundational Model"
+  ],
+  [
+    "Google",
+    "has_access_to",
+    "Data and Compute Resources"
+  ],
+  [
+    "Loss Function",
+    "represents",
+    "Engineering Goal"
+  ],
+  [
+    "Model Performance",
+    "is_measured_by",
+    "Metrics"
+  ],
+  [
+    "Foundational Model",
+    "uses",
+    "Foundational Ability"
+  ],
+  [
+    "Visual Language Understanding",
+    "is_type_of",
+    "Natural Language Understanding"
+  ],
+  [
+    "Text Sentiment Analysis",
+    "requires",
+    "Natural Language Understanding"
+  ],
+  [
+    "Image Classification",
+    "requires",
+    "Visual Language Understanding"
+  ],
+  [
+    "Transfer Learning",
+    "improves",
+    "Model Adaptability"
+  ],
+  [
+    "Downstream Tasks",
+    "are_part_of",
+    "Last-Mile Problems"
+  ],
+  [
+    "Foundational Ability",
+    "is_type_of",
+    "Core Prerequisite"
+  ],
+  [
+    "Natural Language Understanding",
+    "part_of",
+    "Foundational Model"
+  ],
+  [
+    "Visual Language Understanding",
+    "part_of",
+    "Foundational Model"
+  ],
+  [
+    "Text Sentiment Analysis",
+    "applied_in",
+    "Domain Diverse Tasks"
+  ],
+  [
+    "Image Classification",
+    "applied_in",
+    "Domain Diverse Tasks"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "Forcing Function"
+  ],
+  [
+    "BERT",
+    "is_type_of",
+    "Language Model"
+  ],
+  [
+    "Data Manufacturing",
+    "requires",
+    "Supervised Learning"
+  ],
+  [
+    "Guess the Masked Word",
+    "is_type_of",
+    "Surrogate Task"
+  ],
+  [
+    "Probability Distribution",
+    "measures",
+    "Language Understanding"
+  ],
+  [
+    "Loss Function",
+    "optimizes",
+    "Probability Mass"
+  ],
+  [
+    "Weights and Biases",
+    "part_of",
+    "Machine's Probability Function"
+  ],
+  [
+    "Language Model",
+    "requires",
+    "Data Manufacturing"
+  ],
+  [
+    "Foundational Ability",
+    "is_type_of",
+    "Core Ability"
+  ],
+  [
+    "Surrogate Task",
+    "improves",
+    "Inducing Foundational Ability"
+  ],
+  [
+    "Foundational Model",
+    "uses",
+    "Transfer Learning"
+  ],
+  [
+    "Natural Language Understanding model",
+    "is_type_of",
+    "Foundational Model"
+  ],
+  [
+    "Sentiment Analysis",
+    "applied_in",
+    "Transfer Learning"
+  ],
+  [
+    "Fine-tuning",
+    "requires",
+    "Transfer Learning"
+  ],
+  [
+    "Loss Function",
+    "measures",
+    "Training of Foundational Ability"
+  ],
+  [
+    "Negative Log-Likelihood",
+    "uses",
+    "Loss Function"
+  ],
+  [
+    "BERT",
+    "is_type_of",
+    "Surrogate Task"
+  ],
+  [
+    "Pricing Optimization Model",
+    "applied_in",
+    "Transfer Learning"
+  ],
+  [
+    "Price Elasticity",
+    "part_of",
+    "Foundational Ability"
+  ],
+  [
+    "Demand/Supply",
+    "part_of",
+    "Foundational Ability"
+  ],
+  [
+    "Language Understanding",
+    "improves",
+    "Foundational Ability"
+  ],
+  [
+    "Transfer Learning",
+    "uses",
+    "pre-trained model"
+  ],
+  [
+    "Fine-Tuning",
+    "is_type_of",
+    "Transfer Learning"
+  ],
+  [
+    "Pricing Models",
+    "are_not_highly_transferable_from",
+    "other industries"
+  ],
+  [
+    "Neural Scaling Laws",
+    "require",
+    "big compute and big data"
+  ],
+  [
+    "Traditional Regression Models",
+    "lack",
+    "Neural Scaling Laws"
+  ],
+  [
+    "Modern Systems",
+    "can_train_pricing_model_in",
+    "20 minutes"
+  ],
+  [
+    "Transfer Learning",
+    "is_not_efficient_for",
+    "pricing models"
+  ],
+  [
+    "General-Purpose Architecture",
+    "uses",
+    "separate model for each client's data"
+  ],
+  [
+    "Large Language Models",
+    "use",
+    "Transfer Learning methodology"
+  ],
+  [
+    "Machine Learning Models",
+    "are_trained_with",
+    "two-step journey of Transfer Learning"
+  ],
+  [
+    "Pre-training",
+    "uses",
+    "foundational model"
+  ],
+  [
+    "Foundational Model",
+    "is_type_of",
+    "Deep Learning Model"
+  ],
+  [
+    "Transfer Learning",
+    "requires",
+    "Pre-training"
+  ],
+  [
+    "Fine-tuning",
+    "applied_in",
+    "Transfer Learning"
+  ],
+  [
+    "Fine-tuning",
+    "improves",
+    "Model Performance"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "Self-Supervised Objective"
+  ],
+  [
+    "Hugging Face",
+    "hosts",
+    "Pre-trained Models"
+  ],
+  [
+    "Language Structure",
+    "is_type_of",
+    "Foundational Knowledge"
+  ],
+  [
+    "Sentiment Analysis",
+    "requires",
+    "Fine-tuning"
+  ],
+  [
+    "Customer Reviews",
+    "are_analyzed_by",
+    "Transfer Learning Model"
+  ]
+]

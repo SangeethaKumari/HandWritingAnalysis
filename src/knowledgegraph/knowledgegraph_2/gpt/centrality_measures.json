@@ -1,0 +1,3684 @@
+{
+  "degree": [
+    {
+      "concept": "Transfer Learning",
+      "score": 0.09230769230769231
+    },
+    {
+      "concept": "Loss Function",
+      "score": 0.05384615384615385
+    },
+    {
+      "concept": "Foundational Model",
+      "score": 0.05384615384615385
+    },
+    {
+      "concept": "Fine-Tuning",
+      "score": 0.046153846153846156
+    },
+    {
+      "concept": "Model Performance",
+      "score": 0.046153846153846156
+    },
+    {
+      "concept": "Surrogate Task",
+      "score": 0.046153846153846156
+    },
+    {
+      "concept": "Neural Scaling Laws",
+      "score": 0.046153846153846156
+    },
+    {
+      "concept": "Foundational Ability",
+      "score": 0.046153846153846156
+    },
+    {
+      "concept": "Neural Network",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Model Training",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "AI Agents",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Agent Design Pattern",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "classification error rate",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Visual Language Understanding",
+      "score": 0.023076923076923078
+    },
+    {
+      "concept": "Natural Language Understanding",
+      "score": 0.023076923076923078
+    },
+    {
+      "concept": "Fine-tuning",
+      "score": 0.023076923076923078
+    },
+    {
+      "concept": "Fine-Tuned Models",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Planning and Execution",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Machine Learning",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Data Provenance",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Ground Truth Function",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Knowledge Entropy",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "regression quality",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Backpropagation",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Gradient",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Text Sentiment Analysis",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Image Classification",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Domain Diverse Tasks",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "BERT",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Language Model",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Data Manufacturing",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Language Understanding",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Sentiment Analysis",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Pre-training",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "AI Agent",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pre-trained Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "BER T",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Foundational Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "LLMs",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Prompt Engineering",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "In-Context Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Deep Habit",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Frontier Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Re-planning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Reflection",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Smart Home Reasoning Project",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Model Accuracy",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Knowledge Obsolescence",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Catastrophic Forgetting",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Mode Collapse",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Optimization Problem",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "True Relationship Between Variables",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Approximation Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Model Capacity",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Lossy Compression",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Parameter Limits",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Real-World Applications",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Thermodynamic Disconnect",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Mean Squared Error",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Mean Absolute Error",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Accuracy",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Precision",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Recall",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "F1 score",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "any continuous function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Universal Approximator Theorem",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "effective approximation of any function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Feedforward Neural Network",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Activation Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "neuron operation",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Gradient Descent",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Error",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Slope",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Sensitivity",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Forward Signal Transduction",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Input Data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Gradient Descent Step",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Loss Minimization",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Null Hypothesis",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Relationship Existence",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Process",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Parameters",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Compute Resources",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "AlexNet",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Google",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Data and Compute Resources",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Engineering Goal",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Metrics",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Model Adaptability",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Downstream Tasks",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Last-Mile Problems",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Core Prerequisite",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Forcing Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Supervised Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Guess the Masked Word",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Probability Distribution",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Probability Mass",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Weights and Biases",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Machine's Probability Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Core Ability",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Inducing Foundational Ability",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Natural Language Understanding model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Training of Foundational Ability",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Negative Log-Likelihood",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pricing Optimization Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Price Elasticity",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Demand/Supply",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "pre-trained model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pricing Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "other industries",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "big compute and big data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Traditional Regression Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Modern Systems",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "20 minutes",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "pricing models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "General-Purpose Architecture",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "separate model for each client's data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Large Language Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Transfer Learning methodology",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Machine Learning Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "two-step journey of Transfer Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "foundational model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Deep Learning Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Self-Supervised Objective",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Hugging Face",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pre-trained Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Language Structure",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Foundational Knowledge",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Customer Reviews",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Transfer Learning Model",
+      "score": 0.007692307692307693
+    }
+  ],
+  "in_degree": [
+    {
+      "concept": "Transfer Learning",
+      "score": 0.038461538461538464
+    },
+    {
+      "concept": "Model Performance",
+      "score": 0.038461538461538464
+    },
+    {
+      "concept": "classification error rate",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Foundational Model",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Neural Scaling Laws",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Foundational Ability",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Agent Design Pattern",
+      "score": 0.023076923076923078
+    },
+    {
+      "concept": "Model Training",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Fine-Tuning",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Loss Function",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Surrogate Task",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "AI Agents",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Fine-Tuned Models",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Data Provenance",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Knowledge Entropy",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "regression quality",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Natural Language Understanding",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Domain Diverse Tasks",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Neural Network",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "AI Agent",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pre-trained Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "BER T",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Deep Habit",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Planning and Execution",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Machine Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Model Accuracy",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Catastrophic Forgetting",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Optimization Problem",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Ground Truth Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "True Relationship Between Variables",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Parameter Limits",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Real-World Applications",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "any continuous function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "effective approximation of any function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "neuron operation",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Backpropagation",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Error",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Slope",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Sensitivity",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Input Data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Loss Minimization",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Relationship Existence",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Process",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Data and Compute Resources",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Engineering Goal",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Metrics",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Visual Language Understanding",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Model Adaptability",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Last-Mile Problems",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Core Prerequisite",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Forcing Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Language Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Data Manufacturing",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Supervised Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Language Understanding",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Probability Mass",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Machine's Probability Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Core Ability",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Inducing Foundational Ability",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Fine-tuning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Training of Foundational Ability",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "pre-trained model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "other industries",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "big compute and big data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "20 minutes",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "pricing models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "separate model for each client's data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Transfer Learning methodology",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "two-step journey of Transfer Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pre-training",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "foundational model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Deep Learning Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Self-Supervised Objective",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pre-trained Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Foundational Knowledge",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Transfer Learning Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Foundational Models",
+      "score": 0.0
+    },
+    {
+      "concept": "LLMs",
+      "score": 0.0
+    },
+    {
+      "concept": "Prompt Engineering",
+      "score": 0.0
+    },
+    {
+      "concept": "In-Context Learning",
+      "score": 0.0
+    },
+    {
+      "concept": "Frontier Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Re-planning",
+      "score": 0.0
+    },
+    {
+      "concept": "Reflection",
+      "score": 0.0
+    },
+    {
+      "concept": "Smart Home Reasoning Project",
+      "score": 0.0
+    },
+    {
+      "concept": "Knowledge Obsolescence",
+      "score": 0.0
+    },
+    {
+      "concept": "Mode Collapse",
+      "score": 0.0
+    },
+    {
+      "concept": "Approximation Model",
+      "score": 0.0
+    },
+    {
+      "concept": "Model Capacity",
+      "score": 0.0
+    },
+    {
+      "concept": "Lossy Compression",
+      "score": 0.0
+    },
+    {
+      "concept": "Thermodynamic Disconnect",
+      "score": 0.0
+    },
+    {
+      "concept": "Mean Squared Error",
+      "score": 0.0
+    },
+    {
+      "concept": "Mean Absolute Error",
+      "score": 0.0
+    },
+    {
+      "concept": "Accuracy",
+      "score": 0.0
+    },
+    {
+      "concept": "Precision",
+      "score": 0.0
+    },
+    {
+      "concept": "Recall",
+      "score": 0.0
+    },
+    {
+      "concept": "F1 score",
+      "score": 0.0
+    },
+    {
+      "concept": "Universal Approximator Theorem",
+      "score": 0.0
+    },
+    {
+      "concept": "Feedforward Neural Network",
+      "score": 0.0
+    },
+    {
+      "concept": "Activation Function",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient Descent",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient",
+      "score": 0.0
+    },
+    {
+      "concept": "Forward Signal Transduction",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient Descent Step",
+      "score": 0.0
+    },
+    {
+      "concept": "Null Hypothesis",
+      "score": 0.0
+    },
+    {
+      "concept": "Parameters",
+      "score": 0.0
+    },
+    {
+      "concept": "Data",
+      "score": 0.0
+    },
+    {
+      "concept": "Compute Resources",
+      "score": 0.0
+    },
+    {
+      "concept": "AlexNet",
+      "score": 0.0
+    },
+    {
+      "concept": "Google",
+      "score": 0.0
+    },
+    {
+      "concept": "Text Sentiment Analysis",
+      "score": 0.0
+    },
+    {
+      "concept": "Image Classification",
+      "score": 0.0
+    },
+    {
+      "concept": "Downstream Tasks",
+      "score": 0.0
+    },
+    {
+      "concept": "BERT",
+      "score": 0.0
+    },
+    {
+      "concept": "Guess the Masked Word",
+      "score": 0.0
+    },
+    {
+      "concept": "Probability Distribution",
+      "score": 0.0
+    },
+    {
+      "concept": "Weights and Biases",
+      "score": 0.0
+    },
+    {
+      "concept": "Natural Language Understanding model",
+      "score": 0.0
+    },
+    {
+      "concept": "Sentiment Analysis",
+      "score": 0.0
+    },
+    {
+      "concept": "Negative Log-Likelihood",
+      "score": 0.0
+    },
+    {
+      "concept": "Pricing Optimization Model",
+      "score": 0.0
+    },
+    {
+      "concept": "Price Elasticity",
+      "score": 0.0
+    },
+    {
+      "concept": "Demand/Supply",
+      "score": 0.0
+    },
+    {
+      "concept": "Pricing Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Traditional Regression Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Modern Systems",
+      "score": 0.0
+    },
+    {
+      "concept": "General-Purpose Architecture",
+      "score": 0.0
+    },
+    {
+      "concept": "Large Language Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Machine Learning Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Hugging Face",
+      "score": 0.0
+    },
+    {
+      "concept": "Language Structure",
+      "score": 0.0
+    },
+    {
+      "concept": "Customer Reviews",
+      "score": 0.0
+    }
+  ],
+  "out_degree": [
+    {
+      "concept": "Transfer Learning",
+      "score": 0.05384615384615385
+    },
+    {
+      "concept": "Loss Function",
+      "score": 0.038461538461538464
+    },
+    {
+      "concept": "Fine-Tuning",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Surrogate Task",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Neural Network",
+      "score": 0.023076923076923078
+    },
+    {
+      "concept": "Foundational Model",
+      "score": 0.023076923076923078
+    },
+    {
+      "concept": "Model Training",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "AI Agents",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Gradient",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Neural Scaling Laws",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Foundational Ability",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Visual Language Understanding",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Text Sentiment Analysis",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Image Classification",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "BERT",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Sentiment Analysis",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Fine-tuning",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Model Performance",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Foundational Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "LLMs",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Prompt Engineering",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "In-Context Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Frontier Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Agent Design Pattern",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Planning and Execution",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Re-planning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Reflection",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Smart Home Reasoning Project",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Machine Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Knowledge Obsolescence",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Mode Collapse",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Ground Truth Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Approximation Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Model Capacity",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Lossy Compression",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Thermodynamic Disconnect",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Mean Squared Error",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Mean Absolute Error",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Accuracy",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Precision",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Recall",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "F1 score",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Universal Approximator Theorem",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Feedforward Neural Network",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Activation Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Gradient Descent",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Backpropagation",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Forward Signal Transduction",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Gradient Descent Step",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Null Hypothesis",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Parameters",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Compute Resources",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "AlexNet",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Google",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Natural Language Understanding",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Downstream Tasks",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Language Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Data Manufacturing",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Guess the Masked Word",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Probability Distribution",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Language Understanding",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Weights and Biases",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Natural Language Understanding model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Negative Log-Likelihood",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pricing Optimization Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Price Elasticity",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Demand/Supply",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pricing Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Traditional Regression Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Modern Systems",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "General-Purpose Architecture",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Large Language Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Machine Learning Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pre-training",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Hugging Face",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Language Structure",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Customer Reviews",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "AI Agent",
+      "score": 0.0
+    },
+    {
+      "concept": "Pre-trained Model",
+      "score": 0.0
+    },
+    {
+      "concept": "BER T",
+      "score": 0.0
+    },
+    {
+      "concept": "Fine-Tuned Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Deep Habit",
+      "score": 0.0
+    },
+    {
+      "concept": "Model Accuracy",
+      "score": 0.0
+    },
+    {
+      "concept": "Data Provenance",
+      "score": 0.0
+    },
+    {
+      "concept": "Catastrophic Forgetting",
+      "score": 0.0
+    },
+    {
+      "concept": "Optimization Problem",
+      "score": 0.0
+    },
+    {
+      "concept": "True Relationship Between Variables",
+      "score": 0.0
+    },
+    {
+      "concept": "Knowledge Entropy",
+      "score": 0.0
+    },
+    {
+      "concept": "Parameter Limits",
+      "score": 0.0
+    },
+    {
+      "concept": "Real-World Applications",
+      "score": 0.0
+    },
+    {
+      "concept": "regression quality",
+      "score": 0.0
+    },
+    {
+      "concept": "classification error rate",
+      "score": 0.0
+    },
+    {
+      "concept": "any continuous function",
+      "score": 0.0
+    },
+    {
+      "concept": "effective approximation of any function",
+      "score": 0.0
+    },
+    {
+      "concept": "neuron operation",
+      "score": 0.0
+    },
+    {
+      "concept": "Error",
+      "score": 0.0
+    },
+    {
+      "concept": "Slope",
+      "score": 0.0
+    },
+    {
+      "concept": "Sensitivity",
+      "score": 0.0
+    },
+    {
+      "concept": "Input Data",
+      "score": 0.0
+    },
+    {
+      "concept": "Loss Minimization",
+      "score": 0.0
+    },
+    {
+      "concept": "Relationship Existence",
+      "score": 0.0
+    },
+    {
+      "concept": "Process",
+      "score": 0.0
+    },
+    {
+      "concept": "Data and Compute Resources",
+      "score": 0.0
+    },
+    {
+      "concept": "Engineering Goal",
+      "score": 0.0
+    },
+    {
+      "concept": "Metrics",
+      "score": 0.0
+    },
+    {
+      "concept": "Model Adaptability",
+      "score": 0.0
+    },
+    {
+      "concept": "Last-Mile Problems",
+      "score": 0.0
+    },
+    {
+      "concept": "Core Prerequisite",
+      "score": 0.0
+    },
+    {
+      "concept": "Domain Diverse Tasks",
+      "score": 0.0
+    },
+    {
+      "concept": "Forcing Function",
+      "score": 0.0
+    },
+    {
+      "concept": "Supervised Learning",
+      "score": 0.0
+    },
+    {
+      "concept": "Probability Mass",
+      "score": 0.0
+    },
+    {
+      "concept": "Machine's Probability Function",
+      "score": 0.0
+    },
+    {
+      "concept": "Core Ability",
+      "score": 0.0
+    },
+    {
+      "concept": "Inducing Foundational Ability",
+      "score": 0.0
+    },
+    {
+      "concept": "Training of Foundational Ability",
+      "score": 0.0
+    },
+    {
+      "concept": "pre-trained model",
+      "score": 0.0
+    },
+    {
+      "concept": "other industries",
+      "score": 0.0
+    },
+    {
+      "concept": "big compute and big data",
+      "score": 0.0
+    },
+    {
+      "concept": "20 minutes",
+      "score": 0.0
+    },
+    {
+      "concept": "pricing models",
+      "score": 0.0
+    },
+    {
+      "concept": "separate model for each client's data",
+      "score": 0.0
+    },
+    {
+      "concept": "Transfer Learning methodology",
+      "score": 0.0
+    },
+    {
+      "concept": "two-step journey of Transfer Learning",
+      "score": 0.0
+    },
+    {
+      "concept": "foundational model",
+      "score": 0.0
+    },
+    {
+      "concept": "Deep Learning Model",
+      "score": 0.0
+    },
+    {
+      "concept": "Self-Supervised Objective",
+      "score": 0.0
+    },
+    {
+      "concept": "Pre-trained Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Foundational Knowledge",
+      "score": 0.0
+    },
+    {
+      "concept": "Transfer Learning Model",
+      "score": 0.0
+    }
+  ],
+  "betweenness": [
+    {
+      "concept": "Transfer Learning",
+      "score": 0.011210494931425164
+    },
+    {
+      "concept": "Fine-Tuning",
+      "score": 0.006678592725104353
+    },
+    {
+      "concept": "AI Agents",
+      "score": 0.005724508050089445
+    },
+    {
+      "concept": "Foundational Model",
+      "score": 0.005724508050089445
+    },
+    {
+      "concept": "Agent Design Pattern",
+      "score": 0.004054859868813357
+    },
+    {
+      "concept": "Model Training",
+      "score": 0.0026237328562909957
+    },
+    {
+      "concept": "Model Performance",
+      "score": 0.00172927847346452
+    },
+    {
+      "concept": "Foundational Ability",
+      "score": 0.0013118664281454979
+    },
+    {
+      "concept": "Pre-training",
+      "score": 0.0011926058437686344
+    },
+    {
+      "concept": "Loss Function",
+      "score": 0.001073345259391771
+    },
+    {
+      "concept": "Planning and Execution",
+      "score": 0.001073345259391771
+    },
+    {
+      "concept": "Visual Language Understanding",
+      "score": 0.001073345259391771
+    },
+    {
+      "concept": "Natural Language Understanding",
+      "score": 0.0010137149672033393
+    },
+    {
+      "concept": "Neural Scaling Laws",
+      "score": 0.0007155635062611807
+    },
+    {
+      "concept": "Surrogate Task",
+      "score": 0.0004770423375074538
+    },
+    {
+      "concept": "Backpropagation",
+      "score": 0.00041741204531902206
+    },
+    {
+      "concept": "Neural Network",
+      "score": 0.0002981514609421586
+    },
+    {
+      "concept": "Language Understanding",
+      "score": 0.00017889087656529517
+    },
+    {
+      "concept": "Language Model",
+      "score": 0.00011926058437686345
+    },
+    {
+      "concept": "Data Manufacturing",
+      "score": 0.00011926058437686345
+    },
+    {
+      "concept": "Ground Truth Function",
+      "score": 5.9630292188431724e-05
+    },
+    {
+      "concept": "Fine-tuning",
+      "score": 5.9630292188431724e-05
+    },
+    {
+      "concept": "AI Agent",
+      "score": 0.0
+    },
+    {
+      "concept": "Pre-trained Model",
+      "score": 0.0
+    },
+    {
+      "concept": "BER T",
+      "score": 0.0
+    },
+    {
+      "concept": "Foundational Models",
+      "score": 0.0
+    },
+    {
+      "concept": "LLMs",
+      "score": 0.0
+    },
+    {
+      "concept": "Fine-Tuned Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Prompt Engineering",
+      "score": 0.0
+    },
+    {
+      "concept": "In-Context Learning",
+      "score": 0.0
+    },
+    {
+      "concept": "Deep Habit",
+      "score": 0.0
+    },
+    {
+      "concept": "Frontier Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Re-planning",
+      "score": 0.0
+    },
+    {
+      "concept": "Reflection",
+      "score": 0.0
+    },
+    {
+      "concept": "Smart Home Reasoning Project",
+      "score": 0.0
+    },
+    {
+      "concept": "Machine Learning",
+      "score": 0.0
+    },
+    {
+      "concept": "Model Accuracy",
+      "score": 0.0
+    },
+    {
+      "concept": "Data Provenance",
+      "score": 0.0
+    },
+    {
+      "concept": "Knowledge Obsolescence",
+      "score": 0.0
+    },
+    {
+      "concept": "Catastrophic Forgetting",
+      "score": 0.0
+    },
+    {
+      "concept": "Mode Collapse",
+      "score": 0.0
+    },
+    {
+      "concept": "Optimization Problem",
+      "score": 0.0
+    },
+    {
+      "concept": "True Relationship Between Variables",
+      "score": 0.0
+    },
+    {
+      "concept": "Approximation Model",
+      "score": 0.0
+    },
+    {
+      "concept": "Model Capacity",
+      "score": 0.0
+    },
+    {
+      "concept": "Knowledge Entropy",
+      "score": 0.0
+    },
+    {
+      "concept": "Lossy Compression",
+      "score": 0.0
+    },
+    {
+      "concept": "Parameter Limits",
+      "score": 0.0
+    },
+    {
+      "concept": "Real-World Applications",
+      "score": 0.0
+    },
+    {
+      "concept": "Thermodynamic Disconnect",
+      "score": 0.0
+    },
+    {
+      "concept": "Mean Squared Error",
+      "score": 0.0
+    },
+    {
+      "concept": "regression quality",
+      "score": 0.0
+    },
+    {
+      "concept": "Mean Absolute Error",
+      "score": 0.0
+    },
+    {
+      "concept": "Accuracy",
+      "score": 0.0
+    },
+    {
+      "concept": "classification error rate",
+      "score": 0.0
+    },
+    {
+      "concept": "Precision",
+      "score": 0.0
+    },
+    {
+      "concept": "Recall",
+      "score": 0.0
+    },
+    {
+      "concept": "F1 score",
+      "score": 0.0
+    },
+    {
+      "concept": "any continuous function",
+      "score": 0.0
+    },
+    {
+      "concept": "Universal Approximator Theorem",
+      "score": 0.0
+    },
+    {
+      "concept": "effective approximation of any function",
+      "score": 0.0
+    },
+    {
+      "concept": "Feedforward Neural Network",
+      "score": 0.0
+    },
+    {
+      "concept": "Activation Function",
+      "score": 0.0
+    },
+    {
+      "concept": "neuron operation",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient Descent",
+      "score": 0.0
+    },
+    {
+      "concept": "Error",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient",
+      "score": 0.0
+    },
+    {
+      "concept": "Slope",
+      "score": 0.0
+    },
+    {
+      "concept": "Sensitivity",
+      "score": 0.0
+    },
+    {
+      "concept": "Forward Signal Transduction",
+      "score": 0.0
+    },
+    {
+      "concept": "Input Data",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient Descent Step",
+      "score": 0.0
+    },
+    {
+      "concept": "Loss Minimization",
+      "score": 0.0
+    },
+    {
+      "concept": "Null Hypothesis",
+      "score": 0.0
+    },
+    {
+      "concept": "Relationship Existence",
+      "score": 0.0
+    },
+    {
+      "concept": "Process",
+      "score": 0.0
+    },
+    {
+      "concept": "Parameters",
+      "score": 0.0
+    },
+    {
+      "concept": "Data",
+      "score": 0.0
+    },
+    {
+      "concept": "Compute Resources",
+      "score": 0.0
+    },
+    {
+      "concept": "AlexNet",
+      "score": 0.0
+    },
+    {
+      "concept": "Google",
+      "score": 0.0
+    },
+    {
+      "concept": "Data and Compute Resources",
+      "score": 0.0
+    },
+    {
+      "concept": "Engineering Goal",
+      "score": 0.0
+    },
+    {
+      "concept": "Metrics",
+      "score": 0.0
+    },
+    {
+      "concept": "Text Sentiment Analysis",
+      "score": 0.0
+    },
+    {
+      "concept": "Image Classification",
+      "score": 0.0
+    },
+    {
+      "concept": "Model Adaptability",
+      "score": 0.0
+    },
+    {
+      "concept": "Downstream Tasks",
+      "score": 0.0
+    },
+    {
+      "concept": "Last-Mile Problems",
+      "score": 0.0
+    },
+    {
+      "concept": "Core Prerequisite",
+      "score": 0.0
+    },
+    {
+      "concept": "Domain Diverse Tasks",
+      "score": 0.0
+    },
+    {
+      "concept": "Forcing Function",
+      "score": 0.0
+    },
+    {
+      "concept": "BERT",
+      "score": 0.0
+    },
+    {
+      "concept": "Supervised Learning",
+      "score": 0.0
+    },
+    {
+      "concept": "Guess the Masked Word",
+      "score": 0.0
+    },
+    {
+      "concept": "Probability Distribution",
+      "score": 0.0
+    },
+    {
+      "concept": "Probability Mass",
+      "score": 0.0
+    },
+    {
+      "concept": "Weights and Biases",
+      "score": 0.0
+    },
+    {
+      "concept": "Machine's Probability Function",
+      "score": 0.0
+    },
+    {
+      "concept": "Core Ability",
+      "score": 0.0
+    },
+    {
+      "concept": "Inducing Foundational Ability",
+      "score": 0.0
+    },
+    {
+      "concept": "Natural Language Understanding model",
+      "score": 0.0
+    },
+    {
+      "concept": "Sentiment Analysis",
+      "score": 0.0
+    },
+    {
+      "concept": "Training of Foundational Ability",
+      "score": 0.0
+    },
+    {
+      "concept": "Negative Log-Likelihood",
+      "score": 0.0
+    },
+    {
+      "concept": "Pricing Optimization Model",
+      "score": 0.0
+    },
+    {
+      "concept": "Price Elasticity",
+      "score": 0.0
+    },
+    {
+      "concept": "Demand/Supply",
+      "score": 0.0
+    },
+    {
+      "concept": "pre-trained model",
+      "score": 0.0
+    },
+    {
+      "concept": "Pricing Models",
+      "score": 0.0
+    },
+    {
+      "concept": "other industries",
+      "score": 0.0
+    },
+    {
+      "concept": "big compute and big data",
+      "score": 0.0
+    },
+    {
+      "concept": "Traditional Regression Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Modern Systems",
+      "score": 0.0
+    },
+    {
+      "concept": "20 minutes",
+      "score": 0.0
+    },
+    {
+      "concept": "pricing models",
+      "score": 0.0
+    },
+    {
+      "concept": "General-Purpose Architecture",
+      "score": 0.0
+    },
+    {
+      "concept": "separate model for each client's data",
+      "score": 0.0
+    },
+    {
+      "concept": "Large Language Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Transfer Learning methodology",
+      "score": 0.0
+    },
+    {
+      "concept": "Machine Learning Models",
+      "score": 0.0
+    },
+    {
+      "concept": "two-step journey of Transfer Learning",
+      "score": 0.0
+    },
+    {
+      "concept": "foundational model",
+      "score": 0.0
+    },
+    {
+      "concept": "Deep Learning Model",
+      "score": 0.0
+    },
+    {
+      "concept": "Self-Supervised Objective",
+      "score": 0.0
+    },
+    {
+      "concept": "Hugging Face",
+      "score": 0.0
+    },
+    {
+      "concept": "Pre-trained Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Language Structure",
+      "score": 0.0
+    },
+    {
+      "concept": "Foundational Knowledge",
+      "score": 0.0
+    },
+    {
+      "concept": "Customer Reviews",
+      "score": 0.0
+    },
+    {
+      "concept": "Transfer Learning Model",
+      "score": 0.0
+    }
+  ],
+  "closeness": [
+    {
+      "concept": "Model Performance",
+      "score": 0.08861959957850368
+    },
+    {
+      "concept": "Metrics",
+      "score": 0.06721433905899925
+    },
+    {
+      "concept": "Transfer Learning",
+      "score": 0.060367892976588636
+    },
+    {
+      "concept": "Model Training",
+      "score": 0.053957636566332214
+    },
+    {
+      "concept": "Data Provenance",
+      "score": 0.04764267990074442
+    },
+    {
+      "concept": "Process",
+      "score": 0.046620046620046623
+    },
+    {
+      "concept": "Model Adaptability",
+      "score": 0.046620046620046623
+    },
+    {
+      "concept": "pre-trained model",
+      "score": 0.046620046620046623
+    },
+    {
+      "concept": "pricing models",
+      "score": 0.046620046620046623
+    },
+    {
+      "concept": "Pre-training",
+      "score": 0.046620046620046623
+    },
+    {
+      "concept": "Foundational Ability",
+      "score": 0.04653846153846154
+    },
+    {
+      "concept": "Machine Learning",
+      "score": 0.04423076923076923
+    },
+    {
+      "concept": "foundational model",
+      "score": 0.03899204244031831
+    },
+    {
+      "concept": "Foundational Model",
+      "score": 0.03461538461538462
+    },
+    {
+      "concept": "Core Prerequisite",
+      "score": 0.03461538461538462
+    },
+    {
+      "concept": "Core Ability",
+      "score": 0.03461538461538462
+    },
+    {
+      "concept": "classification error rate",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Neural Scaling Laws",
+      "score": 0.03076923076923077
+    },
+    {
+      "concept": "Fine-Tuning",
+      "score": 0.025910931174089068
+    },
+    {
+      "concept": "AI Agents",
+      "score": 0.025174825174825173
+    },
+    {
+      "concept": "Deep Learning Model",
+      "score": 0.02512820512820513
+    },
+    {
+      "concept": "Agent Design Pattern",
+      "score": 0.02461538461538462
+    },
+    {
+      "concept": "Pre-trained Model",
+      "score": 0.022252747252747257
+    },
+    {
+      "concept": "Model Accuracy",
+      "score": 0.022252747252747257
+    },
+    {
+      "concept": "big compute and big data",
+      "score": 0.021367521367521368
+    },
+    {
+      "concept": "Real-World Applications",
+      "score": 0.020940170940170942
+    },
+    {
+      "concept": "Loss Function",
+      "score": 0.01730769230769231
+    },
+    {
+      "concept": "Natural Language Understanding",
+      "score": 0.01730769230769231
+    },
+    {
+      "concept": "Surrogate Task",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Fine-Tuned Models",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Knowledge Entropy",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "regression quality",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Error",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Engineering Goal",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Domain Diverse Tasks",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Probability Mass",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "Training of Foundational Ability",
+      "score": 0.015384615384615385
+    },
+    {
+      "concept": "BER T",
+      "score": 0.013846153846153847
+    },
+    {
+      "concept": "Forcing Function",
+      "score": 0.013846153846153847
+    },
+    {
+      "concept": "Inducing Foundational Ability",
+      "score": 0.013846153846153847
+    },
+    {
+      "concept": "Self-Supervised Objective",
+      "score": 0.013846153846153847
+    },
+    {
+      "concept": "Supervised Learning",
+      "score": 0.011538461538461539
+    },
+    {
+      "concept": "AI Agent",
+      "score": 0.010256410256410256
+    },
+    {
+      "concept": "True Relationship Between Variables",
+      "score": 0.010256410256410256
+    },
+    {
+      "concept": "any continuous function",
+      "score": 0.010256410256410256
+    },
+    {
+      "concept": "Data Manufacturing",
+      "score": 0.010256410256410256
+    },
+    {
+      "concept": "Neural Network",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Deep Habit",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Planning and Execution",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Catastrophic Forgetting",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Optimization Problem",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Ground Truth Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Parameter Limits",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "effective approximation of any function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "neuron operation",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Backpropagation",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Slope",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Sensitivity",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Input Data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Loss Minimization",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Relationship Existence",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Data and Compute Resources",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Visual Language Understanding",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Last-Mile Problems",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Language Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Language Understanding",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Machine's Probability Function",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Fine-tuning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "other industries",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "20 minutes",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "separate model for each client's data",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Transfer Learning methodology",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "two-step journey of Transfer Learning",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Pre-trained Models",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Foundational Knowledge",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Transfer Learning Model",
+      "score": 0.007692307692307693
+    },
+    {
+      "concept": "Foundational Models",
+      "score": 0.0
+    },
+    {
+      "concept": "LLMs",
+      "score": 0.0
+    },
+    {
+      "concept": "Prompt Engineering",
+      "score": 0.0
+    },
+    {
+      "concept": "In-Context Learning",
+      "score": 0.0
+    },
+    {
+      "concept": "Frontier Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Re-planning",
+      "score": 0.0
+    },
+    {
+      "concept": "Reflection",
+      "score": 0.0
+    },
+    {
+      "concept": "Smart Home Reasoning Project",
+      "score": 0.0
+    },
+    {
+      "concept": "Knowledge Obsolescence",
+      "score": 0.0
+    },
+    {
+      "concept": "Mode Collapse",
+      "score": 0.0
+    },
+    {
+      "concept": "Approximation Model",
+      "score": 0.0
+    },
+    {
+      "concept": "Model Capacity",
+      "score": 0.0
+    },
+    {
+      "concept": "Lossy Compression",
+      "score": 0.0
+    },
+    {
+      "concept": "Thermodynamic Disconnect",
+      "score": 0.0
+    },
+    {
+      "concept": "Mean Squared Error",
+      "score": 0.0
+    },
+    {
+      "concept": "Mean Absolute Error",
+      "score": 0.0
+    },
+    {
+      "concept": "Accuracy",
+      "score": 0.0
+    },
+    {
+      "concept": "Precision",
+      "score": 0.0
+    },
+    {
+      "concept": "Recall",
+      "score": 0.0
+    },
+    {
+      "concept": "F1 score",
+      "score": 0.0
+    },
+    {
+      "concept": "Universal Approximator Theorem",
+      "score": 0.0
+    },
+    {
+      "concept": "Feedforward Neural Network",
+      "score": 0.0
+    },
+    {
+      "concept": "Activation Function",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient Descent",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient",
+      "score": 0.0
+    },
+    {
+      "concept": "Forward Signal Transduction",
+      "score": 0.0
+    },
+    {
+      "concept": "Gradient Descent Step",
+      "score": 0.0
+    },
+    {
+      "concept": "Null Hypothesis",
+      "score": 0.0
+    },
+    {
+      "concept": "Parameters",
+      "score": 0.0
+    },
+    {
+      "concept": "Data",
+      "score": 0.0
+    },
+    {
+      "concept": "Compute Resources",
+      "score": 0.0
+    },
+    {
+      "concept": "AlexNet",
+      "score": 0.0
+    },
+    {
+      "concept": "Google",
+      "score": 0.0
+    },
+    {
+      "concept": "Text Sentiment Analysis",
+      "score": 0.0
+    },
+    {
+      "concept": "Image Classification",
+      "score": 0.0
+    },
+    {
+      "concept": "Downstream Tasks",
+      "score": 0.0
+    },
+    {
+      "concept": "BERT",
+      "score": 0.0
+    },
+    {
+      "concept": "Guess the Masked Word",
+      "score": 0.0
+    },
+    {
+      "concept": "Probability Distribution",
+      "score": 0.0
+    },
+    {
+      "concept": "Weights and Biases",
+      "score": 0.0
+    },
+    {
+      "concept": "Natural Language Understanding model",
+      "score": 0.0
+    },
+    {
+      "concept": "Sentiment Analysis",
+      "score": 0.0
+    },
+    {
+      "concept": "Negative Log-Likelihood",
+      "score": 0.0
+    },
+    {
+      "concept": "Pricing Optimization Model",
+      "score": 0.0
+    },
+    {
+      "concept": "Price Elasticity",
+      "score": 0.0
+    },
+    {
+      "concept": "Demand/Supply",
+      "score": 0.0
+    },
+    {
+      "concept": "Pricing Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Traditional Regression Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Modern Systems",
+      "score": 0.0
+    },
+    {
+      "concept": "General-Purpose Architecture",
+      "score": 0.0
+    },
+    {
+      "concept": "Large Language Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Machine Learning Models",
+      "score": 0.0
+    },
+    {
+      "concept": "Hugging Face",
+      "score": 0.0
+    },
+    {
+      "concept": "Language Structure",
+      "score": 0.0
+    },
+    {
+      "concept": "Customer Reviews",
+      "score": 0.0
+    }
+  ],
+  "eigenvector": [
+    {
+      "concept": "Data Provenance",
+      "score": 0.9995231003821422
+    },
+    {
+      "concept": "Metrics",
+      "score": 0.018006857243239766
+    },
+    {
+      "concept": "Machine Learning",
+      "score": 0.017730985194360154
+    },
+    {
+      "concept": "foundational model",
+      "score": 0.017730984823698604
+    },
+    {
+      "concept": "Model Performance",
+      "score": 0.00028328575483417236
+    },
+    {
+      "concept": "Model Training",
+      "score": 0.00027955777165457725
+    },
+    {
+      "concept": "Process",
+      "score": 0.00027955776915573514
+    },
+    {
+      "concept": "Model Adaptability",
+      "score": 0.00027955776915573514
+    },
+    {
+      "concept": "pre-trained model",
+      "score": 0.00027955776915573514
+    },
+    {
+      "concept": "pricing models",
+      "score": 0.00027955776915573514
+    },
+    {
+      "concept": "Pre-training",
+      "score": 0.00027955776915573514
+    },
+    {
+      "concept": "Transfer Learning",
+      "score": 3.76949232167399e-06
+    },
+    {
+      "concept": "Core Prerequisite",
+      "score": 3.7287095544154397e-06
+    },
+    {
+      "concept": "Core Ability",
+      "score": 3.7287095544154397e-06
+    },
+    {
+      "concept": "Pre-trained Model",
+      "score": 3.727600057389011e-06
+    },
+    {
+      "concept": "Model Accuracy",
+      "score": 3.727600057389011e-06
+    },
+    {
+      "concept": "Foundational Ability",
+      "score": 4.189226431004432e-08
+    },
+    {
+      "concept": "Deep Learning Model",
+      "score": 4.1889743107046754e-08
+    },
+    {
+      "concept": "Fine-Tuning",
+      "score": 4.188477896455949e-08
+    },
+    {
+      "concept": "Real-World Applications",
+      "score": 4.1884767784058386e-08
+    },
+    {
+      "concept": "Foundational Model",
+      "score": 3.756816327027491e-10
+    },
+    {
+      "concept": "AI Agents",
+      "score": 3.7565927170055454e-10
+    },
+    {
+      "concept": "Error",
+      "score": 3.7316042970521815e-10
+    },
+    {
+      "concept": "Engineering Goal",
+      "score": 3.7316042970521815e-10
+    },
+    {
+      "concept": "Probability Mass",
+      "score": 3.7316042970521815e-10
+    },
+    {
+      "concept": "Training of Foundational Ability",
+      "score": 3.7316042970521815e-10
+    },
+    {
+      "concept": "Supervised Learning",
+      "score": 3.7067276821097957e-10
+    },
+    {
+      "concept": "big compute and big data",
+      "score": 9.961851546438669e-12
+    },
+    {
+      "concept": "BER T",
+      "score": 4.9865285579622585e-12
+    },
+    {
+      "concept": "Forcing Function",
+      "score": 4.9865285579622585e-12
+    },
+    {
+      "concept": "Inducing Foundational Ability",
+      "score": 4.9865285579622585e-12
+    },
+    {
+      "concept": "Self-Supervised Objective",
+      "score": 4.9865285579622585e-12
+    },
+    {
+      "concept": "Agent Design Pattern",
+      "score": 2.521228065919429e-12
+    },
+    {
+      "concept": "Loss Function",
+      "score": 2.510047564821727e-12
+    },
+    {
+      "concept": "Natural Language Understanding",
+      "score": 2.510047564821727e-12
+    },
+    {
+      "concept": "AI Agent",
+      "score": 2.4988670637240275e-12
+    },
+    {
+      "concept": "True Relationship Between Variables",
+      "score": 2.4988670637240275e-12
+    },
+    {
+      "concept": "any continuous function",
+      "score": 2.4988670637240275e-12
+    },
+    {
+      "concept": "Data Manufacturing",
+      "score": 2.4988670637240275e-12
+    },
+    {
+      "concept": "classification error rate",
+      "score": 4.474707277891078e-14
+    },
+    {
+      "concept": "Neural Scaling Laws",
+      "score": 4.474707277891078e-14
+    },
+    {
+      "concept": "Surrogate Task",
+      "score": 2.2386070583511157e-14
+    },
+    {
+      "concept": "Fine-Tuned Models",
+      "score": 2.2386070583511157e-14
+    },
+    {
+      "concept": "Knowledge Entropy",
+      "score": 2.2386070583511157e-14
+    },
+    {
+      "concept": "regression quality",
+      "score": 2.2386070583511157e-14
+    },
+    {
+      "concept": "Domain Diverse Tasks",
+      "score": 2.2386070583511157e-14
+    },
+    {
+      "concept": "Neural Network",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Deep Habit",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Planning and Execution",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Catastrophic Forgetting",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Optimization Problem",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Ground Truth Function",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Parameter Limits",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "effective approximation of any function",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "neuron operation",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Backpropagation",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Slope",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Sensitivity",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Input Data",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Loss Minimization",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Relationship Existence",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Data and Compute Resources",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Visual Language Understanding",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Last-Mile Problems",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Language Model",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Language Understanding",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Machine's Probability Function",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Fine-tuning",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "other industries",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "20 minutes",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "separate model for each client's data",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Transfer Learning methodology",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "two-step journey of Transfer Learning",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Pre-trained Models",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Foundational Knowledge",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Transfer Learning Model",
+      "score": 1.1205569485811293e-14
+    },
+    {
+      "concept": "Foundational Models",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "LLMs",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Prompt Engineering",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "In-Context Learning",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Frontier Models",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Re-planning",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Reflection",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Smart Home Reasoning Project",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Knowledge Obsolescence",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Mode Collapse",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Approximation Model",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Model Capacity",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Lossy Compression",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Thermodynamic Disconnect",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Mean Squared Error",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Mean Absolute Error",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Accuracy",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Precision",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Recall",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "F1 score",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Universal Approximator Theorem",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Feedforward Neural Network",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Activation Function",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Gradient Descent",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Gradient",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Forward Signal Transduction",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Gradient Descent Step",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Null Hypothesis",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Parameters",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Data",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Compute Resources",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "AlexNet",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Google",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Text Sentiment Analysis",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Image Classification",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Downstream Tasks",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "BERT",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Guess the Masked Word",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Probability Distribution",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Weights and Biases",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Natural Language Understanding model",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Sentiment Analysis",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Negative Log-Likelihood",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Pricing Optimization Model",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Price Elasticity",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Demand/Supply",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Pricing Models",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Traditional Regression Models",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Modern Systems",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "General-Purpose Architecture",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Large Language Models",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Machine Learning Models",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Hugging Face",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Language Structure",
+      "score": 2.5068388111434625e-17
+    },
+    {
+      "concept": "Customer Reviews",
+      "score": 2.5068388111434625e-17
+    }
+  ],
+  "pagerank": [
+    {
+      "concept": "Metrics",
+      "score": 0.024282461379630305
+    },
+    {
+      "concept": "Foundational Ability",
+      "score": 0.024103752617785884
+    },
+    {
+      "concept": "Model Performance",
+      "score": 0.02358872637580986
+    },
+    {
+      "concept": "AI Agents",
+      "score": 0.023188324488654634
+    },
+    {
+      "concept": "Transfer Learning",
+      "score": 0.02197361117235162
+    },
+    {
+      "concept": "Foundational Model",
+      "score": 0.021284906353888057
+    },
+    {
+      "concept": "classification error rate",
+      "score": 0.018613185445394562
+    },
+    {
+      "concept": "Neural Scaling Laws",
+      "score": 0.018613185445394562
+    },
+    {
+      "concept": "Agent Design Pattern",
+      "score": 0.018073264437331822
+    },
+    {
+      "concept": "Fine-Tuning",
+      "score": 0.01768070212656
+    },
+    {
+      "concept": "Data Provenance",
+      "score": 0.014991113093803724
+    },
+    {
+      "concept": "Loss Function",
+      "score": 0.014477471133912128
+    },
+    {
+      "concept": "Core Prerequisite",
+      "score": 0.01447476743706475
+    },
+    {
+      "concept": "Core Ability",
+      "score": 0.01447476743706475
+    },
+    {
+      "concept": "Real-World Applications",
+      "score": 0.01408490882314031
+    },
+    {
+      "concept": "Supervised Learning",
+      "score": 0.01218123221250674
+    },
+    {
+      "concept": "big compute and big data",
+      "score": 0.012139653474139544
+    },
+    {
+      "concept": "Fine-Tuned Models",
+      "score": 0.011421598838555178
+    },
+    {
+      "concept": "Knowledge Entropy",
+      "score": 0.011421598838555178
+    },
+    {
+      "concept": "regression quality",
+      "score": 0.011421598838555178
+    },
+    {
+      "concept": "True Relationship Between Variables",
+      "score": 0.010881677830492438
+    },
+    {
+      "concept": "Deep Learning Model",
+      "score": 0.010260500412169854
+    },
+    {
+      "concept": "foundational model",
+      "score": 0.010092837788620175
+    },
+    {
+      "concept": "Surrogate Task",
+      "score": 0.009623702186845332
+    },
+    {
+      "concept": "Data Manufacturing",
+      "score": 0.009353741682813962
+    },
+    {
+      "concept": "Model Training",
+      "score": 0.009115556862960327
+    },
+    {
+      "concept": "Natural Language Understanding",
+      "score": 0.008589773608974723
+    },
+    {
+      "concept": "Machine Learning",
+      "score": 0.00810392185339891
+    },
+    {
+      "concept": "Pre-trained Model",
+      "score": 0.007987568311218933
+    },
+    {
+      "concept": "Model Accuracy",
+      "score": 0.007987568311218933
+    },
+    {
+      "concept": "Neural Network",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Deep Habit",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Planning and Execution",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Catastrophic Forgetting",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Optimization Problem",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Ground Truth Function",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Parameter Limits",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "effective approximation of any function",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "neuron operation",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Backpropagation",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Input Data",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Loss Minimization",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Relationship Existence",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Data and Compute Resources",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Last-Mile Problems",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Domain Diverse Tasks",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Language Understanding",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Machine's Probability Function",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "other industries",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "20 minutes",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "separate model for each client's data",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Transfer Learning methodology",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "two-step journey of Transfer Learning",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Pre-trained Models",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Foundational Knowledge",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Transfer Learning Model",
+      "score": 0.007825805535135484
+    },
+    {
+      "concept": "Process",
+      "score": 0.006898334996701445
+    },
+    {
+      "concept": "Model Adaptability",
+      "score": 0.006898334996701445
+    },
+    {
+      "concept": "pre-trained model",
+      "score": 0.006898334996701445
+    },
+    {
+      "concept": "pricing models",
+      "score": 0.006898334996701445
+    },
+    {
+      "concept": "Pre-training",
+      "score": 0.006898334996701445
+    },
+    {
+      "concept": "Error",
+      "score": 0.006691341563348233
+    },
+    {
+      "concept": "Engineering Goal",
+      "score": 0.006691341563348233
+    },
+    {
+      "concept": "Probability Mass",
+      "score": 0.006691341563348233
+    },
+    {
+      "concept": "Training of Foundational Ability",
+      "score": 0.006691341563348233
+    },
+    {
+      "concept": "AI Agent",
+      "score": 0.006447234097974675
+    },
+    {
+      "concept": "any continuous function",
+      "score": 0.006447234097974675
+    },
+    {
+      "concept": "BER T",
+      "score": 0.006274912668329573
+    },
+    {
+      "concept": "Forcing Function",
+      "score": 0.006274912668329573
+    },
+    {
+      "concept": "Inducing Foundational Ability",
+      "score": 0.006274912668329573
+    },
+    {
+      "concept": "Self-Supervised Objective",
+      "score": 0.006274912668329573
+    },
+    {
+      "concept": "Slope",
+      "score": 0.006027908883425638
+    },
+    {
+      "concept": "Sensitivity",
+      "score": 0.006027908883425638
+    },
+    {
+      "concept": "Visual Language Understanding",
+      "score": 0.006027908883425638
+    },
+    {
+      "concept": "Language Model",
+      "score": 0.006027908883425638
+    },
+    {
+      "concept": "Fine-tuning",
+      "score": 0.006027908883425638
+    },
+    {
+      "concept": "Foundational Models",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "LLMs",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Prompt Engineering",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "In-Context Learning",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Frontier Models",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Re-planning",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Reflection",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Smart Home Reasoning Project",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Knowledge Obsolescence",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Mode Collapse",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Approximation Model",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Model Capacity",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Lossy Compression",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Thermodynamic Disconnect",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Mean Squared Error",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Mean Absolute Error",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Accuracy",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Precision",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Recall",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "F1 score",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Universal Approximator Theorem",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Feedforward Neural Network",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Activation Function",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Gradient Descent",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Gradient",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Forward Signal Transduction",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Gradient Descent Step",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Null Hypothesis",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Parameters",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Data",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Compute Resources",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "AlexNet",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Google",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Text Sentiment Analysis",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Image Classification",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Downstream Tasks",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "BERT",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Guess the Masked Word",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Probability Distribution",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Weights and Biases",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Natural Language Understanding model",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Sentiment Analysis",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Negative Log-Likelihood",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Pricing Optimization Model",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Price Elasticity",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Demand/Supply",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Pricing Models",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Traditional Regression Models",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Modern Systems",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "General-Purpose Architecture",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Large Language Models",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Machine Learning Models",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Hugging Face",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Language Structure",
+      "score": 0.004230012231715792
+    },
+    {
+      "concept": "Customer Reviews",
+      "score": 0.004230012231715792
+    }
+  ]
+}
