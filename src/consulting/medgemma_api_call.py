@@ -6,7 +6,7 @@ from huggingface_hub import login
 import json
 
 
-login("""")
+login("")
 
 #IMAGE_PATH ="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/PXL_20251110_172428193.MP.jpg"
 #IMAGE_PATH="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/skin_mole.jpg"
