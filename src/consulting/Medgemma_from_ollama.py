@@ -7,7 +7,7 @@ from io import BytesIO
 #MODEL_NAME = "alibayram/medgemma:latest"
 MODEL_NAME = "amsaravi/medgemma-4b-it:q6"
 
-IMAGE_PATH="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/skin_allergy.jpeg"
+IMAGE_PATH="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/blue_tongue.jpeg"
 PROMPT_PATH="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/simple_prompt.md"
 TRANSCRIPT_PATH = "/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/transcript.txt"
 #transcript content , make sure the image and transcript are about the same thing.

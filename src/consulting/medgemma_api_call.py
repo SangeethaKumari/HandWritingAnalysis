@@ -6,9 +6,12 @@ from huggingface_hub import login
 import json
 
 
+login("""")
 
 #IMAGE_PATH ="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/PXL_20251110_172428193.MP.jpg"
-IMAGE_PATH="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/skin_mole.jpg"
+#IMAGE_PATH="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/skin_mole.jpg"
+#IMAGE_PATH ="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/skin_allergy.jpeg"
+IMAGE_PATH="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/blue_injury.jpeg"
 #PROMPT_PATH ="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/medgemma_prompt.md"
 PROMPT_PATH="/home/sangeethagsk/agent_bootcamp/HandWritingAnalysis/src/consulting/simple_prompt.md"
 TRANSCRIPT_PATH = "I dont know"
@@ -70,17 +73,15 @@ system_prompt = open(PROMPT_PATH).read()  # your full medgemma prompt (with outp
 full_prompt = system_prompt.replace("{transcript}", transcript)
 
 conversation = [
-    {
-        "role": "system",
-        #"content": [{"type": "text", "text": full_prompt}]
-        "content": [{"type":"text","text":"You are an expert radiologist."}]
 
-    },
     {
         "role": "user",
         "content": [
            # {"type": "text", "text": "Analyze this skin image and the transcript together."},
-            {"type":"text","text":"Describe this scan."},
+            {"type":"text","text":" You are a helpful clinical assistant. You triage dermatologic concerns given an image "
+    "and symptom text. Provide two summaries: (1) a technical, doctor-facing summary with "
+    "differential considerations and next-step suggestions; (2) a plain-language, patient-facing summary with safety guidance. "
+    "You must include a disclaimer that this is not a diagnosis and is not medical advice."},
             {"type": "image", "image": image}
         ]
     }

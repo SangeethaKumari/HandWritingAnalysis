@@ -5,94 +5,14 @@
     "AI Agent"
   ],
   [
+    "Model Training",
+    "requires",
+    "Data Science"
+  ],
+  [
     "Transfer Learning",
     "improves",
-    "Model Training"
-  ],
-  [
-    "Fine-Tuning",
-    "requires",
-    "Pre-trained Model"
-  ],
-  [
-    "Loss Function",
-    "measures",
     "Model Performance"
-  ],
-  [
-    "Surrogate Task",
-    "uses",
-    "Transfer Learning"
-  ],
-  [
-    "BER T",
-    "is_type_of",
-    "Surrogate Task"
-  ],
-  [
-    "Foundational Models",
-    "part_of",
-    "AI Agents"
-  ],
-  [
-    "LLMs",
-    "compared_to",
-    "Fine-Tuned Models"
-  ],
-  [
-    "Prompt Engineering",
-    "compared_to",
-    "Fine-Tuning"
-  ],
-  [
-    "In-Context Learning",
-    "compared_to",
-    "Deep Habit"
-  ],
-  [
-    "Frontier Models",
-    "compared_to",
-    "Fine-Tuned Models"
-  ],
-  [
-    "Model Training",
-    "is_type_of",
-    "Machine Learning"
-  ],
-  [
-    "Fine-Tuning",
-    "improves",
-    "Model Accuracy"
-  ],
-  [
-    "AI Agents",
-    "uses",
-    "Fine-Tuning"
-  ],
-  [
-    "Model Training",
-    "requires",
-    "Data Provenance"
-  ],
-  [
-    "Knowledge Obsolescence",
-    "risks",
-    "Catastrophic Forgetting"
-  ],
-  [
-    "Model Capacity",
-    "measures",
-    "Knowledge Entropy"
-  ],
-  [
-    "Ground Truth Function",
-    "is_type_of",
-    "Unknown Underlying Reality"
-  ],
-  [
-    "Approximation Model",
-    "part_of",
-    "Machine Learning"
   ],
   [
     "Fine-Tuning",
@@ -100,19 +20,49 @@
     "AI Agents"
   ],
   [
-    "Data Provenance",
-    "requires",
-    "Legal Requirements"
+    "Loss Function",
+    "measures",
+    "Model Error"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "BER T"
+  ],
+  [
+    "Foundational Models",
+    "part_of",
+    "Modern Model Training"
+  ],
+  [
+    "Prompt Engineering",
+    "compared_to",
+    "Fine-Tuning"
+  ],
+  [
+    "LLMs",
+    "compared_to",
+    "Fine-Tuned Models"
+  ],
+  [
+    "Agent-FL",
+    "is_type_of",
+    "Fine-Tuning Framework"
   ],
   [
     "Model Training",
-    "optimizes",
-    "Predictive Accuracy"
+    "is_type_of",
+    "Machine Learning"
   ],
   [
-    "Ice Cream Sales",
-    "measures",
-    "Temperature"
+    "Fine-Tuning",
+    "uses",
+    "Model Training"
+  ],
+  [
+    "AI Agents",
+    "requires",
+    "Fine-Tuning"
   ],
   [
     "Ground Truth Function",
@@ -120,9 +70,34 @@
     "True Relationship Between Variables"
   ],
   [
-    "Approximation Model",
+    "Models",
+    "are_approximations_of",
+    "Ground Truth Function"
+  ],
+  [
+    "Approximation",
+    "is_useful_if",
+    "Good Approximation Of Underlying Reality"
+  ],
+  [
+    "Ice Cream Sales Model",
+    "applies_to",
+    "Temperature Prediction"
+  ],
+  [
+    "Model",
+    "suffers_from",
+    "Unknown Unknowns"
+  ],
+  [
+    "Data Provenance",
+    "requires",
+    "Legal Requirements"
+  ],
+  [
+    "System Architecture",
     "based_on",
-    "Empirical Data"
+    "Fundamental Dichotomy"
   ],
   [
     "Mean Squared Error",
@@ -156,22 +131,22 @@
   ],
   [
     "Neural Network",
-    "can approximate",
-    "any continuous function"
+    "uses",
+    "approximation of any function"
   ],
   [
     "Universal Approximator Theorem",
     "guarantees",
-    "effective approximation of any function"
+    "neural network can approximate any function"
   ],
   [
     "Feedforward Neural Network",
-    "is type of",
-    "Neural Network"
+    "is_type_of",
+    "standard neural network"
   ],
   [
     "Activation Function",
-    "introduces non-linearity to",
+    "part_of",
     "neuron operation"
   ],
   [
@@ -195,34 +170,34 @@
     "Sensitivity"
   ],
   [
-    "Parameters",
-    "are_updated_by",
-    "Gradient Descent Step"
+    "Neural Network",
+    "applied_in",
+    "Machine Learning"
   ],
   [
-    "Training Process",
-    "applied_in",
-    "Model Training"
+    "Transfer Learning",
+    "uses",
+    "Pre-trained Model"
+  ],
+  [
+    "Forward Signal Transduction",
+    "part_of",
+    "Model Training Process"
+  ],
+  [
+    "Backpropagation",
+    "part_of",
+    "Model Training Process"
+  ],
+  [
+    "Gradient Descent Step",
+    "improves",
+    "Loss Minimization"
   ],
   [
     "Null Hypothesis",
     "requires",
-    "Relationship Between Input and Output"
-  ],
-  [
-    "Neural Network",
-    "cannot_predict",
-    "Scenario A"
-  ],
-  [
-    "Forward Signal Transduction",
-    "uses",
-    "Network"
-  ],
-  [
-    "Backpropagation",
-    "computes",
-    "Gradients"
+    "Relationship between Input and Output"
   ],
   [
     "Transfer Learning",
@@ -240,44 +215,44 @@
     "Transfer Learning"
   ],
   [
+    "Surrogate Task",
+    "part_of",
+    "Transfer Learning"
+  ],
+  [
     "Neural Scaling Laws",
     "improves",
     "Model Performance"
   ],
   [
     "Parameters",
-    "are_required_by",
-    "Neural Scaling Laws"
+    "measures",
+    "Model Power"
   ],
   [
     "Data",
-    "is_required_for",
-    "Neural Scaling Laws"
+    "measures",
+    "Model Power"
   ],
   [
     "Compute Resources",
-    "are_required_for",
-    "Neural Scaling Laws"
+    "requires",
+    "Model Training"
   ],
   [
     "AlexNet",
-    "uses",
+    "is_type_of",
     "Foundational Model"
   ],
   [
     "Google",
-    "has_access_to",
-    "Large Compute Resources"
+    "applied_in",
+    "Training Large Models"
   ],
   [
     "Loss Function",
     "represents",
     "Engineering Goal"
-  ],
-  [
-    "Model Training",
-    "applied_in",
-    "Machine Learning Process"
   ],
   [
     "Foundational Model",
@@ -291,8 +266,13 @@
   ],
   [
     "Natural Language Understanding",
-    "requires",
+    "improves",
     "Text Sentiment Analysis"
+  ],
+  [
+    "Visual Language Understanding",
+    "improves",
+    "Image Classification"
   ],
   [
     "Domain Diverse Tasks",
@@ -301,8 +281,8 @@
   ],
   [
     "Transfer Learning",
-    "improves",
-    "Training Efficiency"
+    "is_type_of",
+    "Adaptation Technique"
   ],
   [
     "Model",
@@ -310,29 +290,24 @@
     "Foundational Ability"
   ],
   [
+    "Downstream Model",
+    "requires",
+    "Natural Language Understanding"
+  ],
+  [
+    "Text Sentiment Analysis",
+    "measures",
+    "Sentiment"
+  ],
+  [
+    "Image Classification",
+    "measures",
+    "Accuracy"
+  ],
+  [
     "Visual Language Understanding",
-    "is_type_of",
-    "Core Prerequisite"
-  ],
-  [
-    "Natural Language Understanding",
-    "is_type_of",
-    "Core Prerequisite"
-  ],
-  [
-    "Downstream Tasks",
-    "are_part_of",
-    "Last-Mile Problems"
-  ],
-  [
-    "Transfer Learning",
-    "based_on",
-    "Adaptation of Fundamentals"
-  ],
-  [
-    "Model",
-    "applied_in",
-    "Domain Diverse Tasks"
+    "part_of",
+    "Foundational Ability"
   ],
   [
     "Surrogate Task",
@@ -357,7 +332,7 @@
   [
     "Language Understanding",
     "improves",
-    "Machine Learning"
+    "Machine's Ability"
   ],
   [
     "Probability Distribution",
@@ -367,27 +342,22 @@
   [
     "Loss Function",
     "optimizes",
-    "Probability Mass"
-  ],
-  [
-    "Weights and Biases",
-    "part_of",
-    "Machine Learning Model"
+    "Model Weights"
   ],
   [
     "Vocabulary",
-    "is_part_of",
+    "part_of",
     "Language Model"
   ],
   [
     "Mandarin Child Analogy",
-    "applied_in",
-    "Language Acquisition"
+    "is_analogous_to",
+    "Surrogate Task"
   ],
   [
-    "Guess the Missing Word",
-    "is_type_of",
-    "Surrogate Task"
+    "Machine Learning",
+    "applied_in",
+    "Training Loop"
   ],
   [
     "Foundational Model",
@@ -405,14 +375,19 @@
     "Transfer Learning"
   ],
   [
+    "Fine-tuning",
+    "part_of",
+    "Transfer Learning process"
+  ],
+  [
     "Loss Function",
     "quantifies",
     "Training of Foundational Ability"
   ],
   [
-    "Negative Log-Likelihood (L)",
+    "Negative Log-Likelihood",
     "uses",
-    "Loss Function for the Surrogate Task"
+    "Loss Function for Surrogate Task"
   ],
   [
     "BERT",
@@ -471,23 +446,23 @@
   ],
   [
     "Pricing Models",
-    "are_trained_from_scratch_in",
-    "20 minutes"
-  ],
-  [
-    "General-Purpose Architecture",
-    "uses",
-    "separate model for each client's data"
-  ],
-  [
-    "Transfer Learning",
-    "is_based_on",
-    "Neural Scaling Laws"
+    "are_trained_from_scratch",
+    "in 20 minutes"
   ],
   [
     "Modern Model Training",
-    "applies",
+    "uses",
     "two-step journey of Transfer Learning"
+  ],
+  [
+    "Transfer Learning",
+    "part_of",
+    "Modern Model Training methodology"
+  ],
+  [
+    "Fine-Tuning",
+    "applied_in",
+    "large language models training"
   ],
   [
     "Pre-training",
@@ -511,32 +486,32 @@
   ],
   [
     "Model",
-    "improves",
-    "through Fine-tuning"
+    "applied_in",
+    "Sentiment Analysis"
   ],
   [
     "Language Structure",
-    "measures",
-    "Semantic Understanding"
+    "improves",
+    "Understanding of Language"
   ],
   [
     "Syntax",
-    "measures",
-    "Semantic Understanding"
+    "is_type_of",
+    "Language Knowledge"
   ],
   [
     "Semantics",
     "measures",
-    "Semantic Understanding"
+    "Contextual Understanding"
+  ],
+  [
+    "Surrogate Task",
+    "uses",
+    "Self-Supervised Objective"
   ],
   [
     "Hugging Face",
-    "uses",
-    "Transfer Learning"
-  ],
-  [
-    "Customer Reviews",
-    "applied_in",
-    "Fine-tuning"
+    "hosts",
+    "Model Repositories"
   ]
 ]
