@@ -192,3 +192,59 @@ Lecture notes
 Research papers
 
 Technical documentation
+
+
+      ┌────────────────────┐
+      │      PDF Input     │
+      └─────────┬──────────┘
+                │
+                ▼
+      ┌────────────────────┐
+      │ Extract PDF Text    │
+      │ (PyPDF2)            │
+      └─────────┬──────────┘
+                │
+                ▼
+      ┌────────────────────┐
+      │ Chunk Text          │
+      │ (pages + paragraphs)│
+      └─────────┬──────────┘
+                │
+                ▼
+      ┌────────────────────────────┐
+      │ LLM Triplet Extraction     │
+      │ (Ollama llama3.1)          │
+      └─────────┬──────────────────┘
+                │
+                ▼
+      ┌────────────────────┐
+      │ Build Graph         │
+      │ (NetworkX DiGraph)  │
+      └─────────┬──────────┘
+                │
+                ▼
+  ┌─────────────────────────────┐
+  │ Calculate Centrality         │
+  │ (degree, betweenness, PR…)   │
+  └───────────┬─────────────────┘
+              │
+              ▼
+  ┌──────────────────────────────┐
+  │ Semantic Reasoning            │
+  │ (infer new edges)             │
+  └───────────┬──────────────────┘
+              │
+              ▼
+  ┌──────────────────────────────┐
+  │ Visualization                 │
+  │ - Graph PNG                   │
+  │ - Word Cloud PNG              │
+  └───────────┬──────────────────┘
+              │
+              ▼
+  ┌──────────────────────────────┐
+  │ Export JSON                   │
+  │ - triplets.json               │
+  │ - centrality_measures.json    │
+  └──────────────────────────────┘
+
